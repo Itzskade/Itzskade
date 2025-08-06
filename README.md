@@ -24,7 +24,7 @@ Soy un entusiasta del código con una curiosidad insaciable por entender cómo f
 
 ## 🎧 Lo que estoy escuchando
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/TU_SPOTIFY)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/0qNOq16dkRt6mAKFEW1Gkf?si=f58d770d35d248c9)
 
 ---
 
