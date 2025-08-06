@@ -24,7 +24,7 @@ I use C to grasp low-level logic, Lua for scripting, and web technologies to bui
 
 ## Favorite Playlist
 
-[![Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0qNOq16dkRt6mAKFEW1Gkf?si=f58d770d35d248c9)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/0qNOq16dkRt6mAKFEW1Gkf?si=f58d770d35d248c9)
 
 ---
 
