@@ -37,7 +37,7 @@ I use C to grasp low-level logic, Lua for scripting, and web technologies to bui
   <a href="https://twitter.com/YOUR_TWITTER">
     <img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter" alt="Twitter" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:itzskade@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </div>
