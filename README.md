@@ -24,7 +24,7 @@ Trabajo con C para comprender la lógica de bajo nivel, Lua para scripting, y te
 
 ## Escuchando
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/0qNOq16dkRt6mAKFEW1Gkf?si=f58d770d35d248c9)
+[![Spotify](https://skade.vercel.app/api/spotify)](https://open.spotify.com/playlist/0qNOq16dkRt6mAKFEW1Gkf?si=f58d770d35d248c9)
 
 ---
 
