@@ -9,7 +9,10 @@
 
 ## 🚀 Sobre mí
 
-Soy un entusiasta del código con una curiosidad insaciable por entender cómo funcionan los sistemas desde dentro. Me apasiona la ciberseguridad, el desarrollo web y los lenguajes que permiten controlar cada bit del sistema. Actualmente estoy trabajando con C para entender la programación de bajo nivel, Lua para scripting eficiente, y tecnologías web para crear interfaces funcionales y seguras. También estoy comenzando a explorar Rust, Assembly y Python para ampliar mi caja de herramientas como desarrollador.
+Soy un entusiasta del código con una curiosidad insaciable por entender cómo funcionan los sistemas desde dentro. 
+Me apasiona la ciberseguridad, el desarrollo web y los lenguajes que permiten controlar cada bit del sistema.
+Actualmente estoy trabajando con C para entender la programación de bajo nivel, Lua para scripting eficiente, y tecnologías web para crear interfaces funcionales y seguras. 
+También estoy comenzando a explorar Rust, Assembly y Python para ampliar mi caja de herramientas como desarrollador.
 
 ---
 
