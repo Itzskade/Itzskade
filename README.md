@@ -26,7 +26,18 @@ I use C to grasp low-level logic, Lua for scripting, and web technologies to bui
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/0qNOq16dkRt6mAKFEW1Gkf?si=f58d770d35d248c9)
 
-[![Listen on Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0qNOq16dkRt6mAKFEW1Gkf)
+### 🎶 Lo que estoy escuchando ahora
+
+![Spotify Now Playing](https://your-vercel-instance.vercel.app/api/spotify)
+
+---
+
+### 📂 Mis playlists favoritas
+
+[![Playlist 1](https://i.scdn.co/image/YOUR_IMAGE_1)](https://open.spotify.com/playlist/YOUR_ID_1)
+[![Playlist 2](https://i.scdn.co/image/YOUR_IMAGE_2)](https://open.spotify.com/playlist/YOUR_ID_2)
+[![Playlist 3](https://i.scdn.co/image/YOUR_IMAGE_3)](https://open.spotify.com/playlist/YOUR_ID_3)
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11162796934&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://open.spotify.com/playlist/0qNOq16dkRt6mAKFEW1Gkf?si=1ec2b0f33d9a4407)
