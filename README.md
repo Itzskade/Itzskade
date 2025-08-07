@@ -33,10 +33,26 @@ I'm also diving into **Rust**, **Assembly**, and **Python** to broaden my perspe
 ## 📬 Contact
 
 <div align="center">
-  <a href="https://itzskade.vercel.app">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  <a 
+    href="https://itzskade.vercel.app" 
+    style="
+      display: inline-block;
+      background-color: #2563eb; /* azul Tailwind 'blue-600' */
+      color: white;
+      padding: 16px 40px;
+      font-size: 1.5rem;
+      font-weight: 600;
+      border-radius: 12px;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+    "
+    onmouseover="this.style.backgroundColor='#1e40af'" 
+    onmouseout="this.style.backgroundColor='#2563eb'"
+  >
+    Contact Me
   </a>
 </div>
+
 
 ---
 
