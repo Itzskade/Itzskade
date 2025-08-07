@@ -32,34 +32,11 @@ I'm also diving into **Rust**, **Assembly**, and **Python** to broaden my perspe
 
 ## 📬 Contact
 
-<div align="center">
-  <a 
-   [![Contact Me](https://i.imgur.com/80RIoUj.png)](https://itzskade.vercel.app)
+<p align="center">
+  <a href="https://itzskade.vercel.app">
+    <img src="https://i.imgur.com/80RIoUj.png" alt="Contact Me" />
   </a>
-</div>
-
-
-<div align="center">
-  <a 
-    href="https://itzskade.vercel.app" 
-    target="_blank" 
-    rel="noopener noreferrer"
-    style="
-      display: inline-block;
-      background-color: #2563eb;
-      color: white;
-      padding: 16px 40px;
-      font-size: 1.5rem;
-      font-weight: 600;
-      border-radius: 12px;
-      text-decoration: none;
-      cursor: pointer;
-      transition: background-color 0.3s ease;
-    "
-  >
-    Contact Me
-  </a>
-</div>
+</p>
 
 
 ---
