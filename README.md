@@ -32,7 +32,7 @@ I'm also diving into **Rust**, **Assembly**, and **Python** to broaden my perspe
 
 ## 📬 Contact
 
-[![Contact Me](https://imgur.com/gallery/contact-me-u75I1re#80RIoUj)](https://itzskade.vercel.app)
+[![Contact Me](https://imgur.com/a/contact-me-u75I1re)](https://itzskade.vercel.app)
 
 
 <div align="center">
