@@ -34,7 +34,7 @@ I'm also diving into **Rust**, **Assembly**, and **Python** to broaden my perspe
 
 <p align="center">
   <a href="https://itzskade.vercel.app">
-    <img src="https://i.imgur.com/80RIoUj.png" alt="Contact Me" width="200" />
+    <img src="https://i.imgur.com/80RIoUj.png" alt="Contact Me" width="300" />
   </a>
 </p>
 
