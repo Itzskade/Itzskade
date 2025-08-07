@@ -41,9 +41,6 @@ I'm also diving into **Rust**, **Assembly**, and **Python** to broaden my perspe
 
 ## 🌐 Mini Web Portfolio
 
-Personal website built with HTML, CSS, and JavaScript  
-Responsive design, smooth animations, and a focus on accessibility
-
 Repository: [web-portfolio](https://github.com/Itzskade/web-portfolio)  
 Demo: *Coming soon*
 
