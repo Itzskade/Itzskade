@@ -28,7 +28,7 @@ I use C to grasp low-level logic, Lua for scripting, and web technologies to bui
 
 ### 🎶 Lo que estoy escuchando ahora
 
-![Spotify Now Playing](https://your-vercel-instance.vercel.app/api/spotify)
+[![Spotify Now Playing](https://itzskade.vercel.app/api/spotify)](https://open.spotify.com/playlist/0qNOq16dkRt6mAKFEW1Gkf?si=f58d770d35d248c9)
 
 ---
 
