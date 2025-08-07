@@ -8,8 +8,6 @@
 
 ## 👨‍💻 About Me
 
-## 💻 About Me
-
 I'm passionate about **cybersecurity**, **low-level programming**, and **web development**.
 
 Currently exploring:
