@@ -26,7 +26,7 @@ I use C to grasp low-level logic, Lua for scripting, and web technologies to bui
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/0qNOq16dkRt6mAKFEW1Gkf?si=f58d770d35d248c9)
 
-### 🎶 Lo que estoy escuchando ahora
+### Listening now
 
 [![Spotify Now Playing](https://itzskade.vercel.app/api/spotify?background_color=0d1117&border_color=1DB954)](https://open.spotify.com/playlist/0qNOq16dkRt6mAKFEW1Gkf)
 
