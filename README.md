@@ -2,7 +2,9 @@
 
 ## 💻 **Aspiring Programmer**  
 Interested in cybersecurity, low-level programming, and web development.
+
 Currently learning and exploring: C, Lua, HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS.
+
 Also studying Rust, Assembly, Python, and working with tools like Bun, Vercel, Linux, and Git.
 
 ---
