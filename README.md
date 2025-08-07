@@ -33,14 +33,8 @@ I'm also diving into **Rust**, **Assembly**, and **Python** to broaden my perspe
 ## 📬 Contact
 
 <div align="center">
-  <a href="https://linkedin.com/in/itzskade">
+  <a href="https://itzskade.vercel.app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/itzskade">
-    <img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter" alt="Twitter" />
-  </a>
-  <a href="mailto:itzskade@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </div>
 
