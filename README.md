@@ -1,4 +1,4 @@
-# 🚀 Roger Marín Navarro
+# Roger Marín Navarro
 
 ## 💻 **Aspiring Programmer**  
  Interested in cybersecurity, low-level programming, and web development  
