@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🐚 Roger Marín Navarro
+# Roger Marín Navarro
 
 ## 💻 **Programador en formación**  
 Interesado en ciberseguridad, programación de bajo nivel y desarrollo web.
