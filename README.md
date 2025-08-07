@@ -1,8 +1,8 @@
 # 🚀 Roger Marín Navarro
 
-**💻 Aspiring Programmer**  
-🔐 Interested in cybersecurity, low-level programming, and web development  
-🧠 Currently exploring C, Lua, HTML/CSS/JS, and learning Rust, Assembly, and Python
+## 💻 Aspiring Programmer**  
+ Interested in cybersecurity, low-level programming, and web development  
+ Currently exploring C, Lua, HTML/CSS/JS, and learning Rust, Assembly, and Python
 
 ---
 
@@ -10,8 +10,8 @@
 
 I'm a code enthusiast driven by curiosity to understand how systems work from the inside out.  
 I'm especially interested in cybersecurity, web development, and languages that allow close interaction with hardware.  
-🧩 I use **C** to grasp low-level logic, **Lua** for scripting, and **web technologies** to build functional interfaces.  
-🛠️ I'm also diving into **Rust**, **Assembly**, and **Python** to broaden my perspective as a developer.
+I use **C** to grasp low-level logic, **Lua** for scripting, and **web technologies** to build functional interfaces.  
+I'm also diving into **Rust**, **Assembly**, and **Python** to broaden my perspective as a developer.
 
 ---
 
@@ -49,10 +49,10 @@ I'm especially interested in cybersecurity, web development, and languages that 
 ## 🌐 Mini Web Portfolio
 
 Personal website built with HTML, CSS, and JavaScript  
-🎨 Responsive design, smooth animations, and a focus on accessibility
+Responsive design, smooth animations, and a focus on accessibility
 
-📁 Repository: [web-portfolio](https://github.com/Itzskade/web-portfolio)  
-🚧 Demo: *Coming soon*
+Repository: [web-portfolio](https://github.com/Itzskade/web-portfolio)  
+Demo: *Coming soon*
 
 ---
 
@@ -73,11 +73,11 @@ Personal website built with HTML, CSS, and JavaScript
 
 ## 📚 Currently Learning
 
-- 🛡️ Fundamentals of cybersecurity and ethical hacking  
-- 🧮 Algorithms and data structures in C  
-- 🌐 Modern web development  
-- 🐚 Lua scripting  
-- 🧵 Introduction to Rust, Assembly, and Python
+- Fundamentals of cybersecurity and ethical hacking  
+- Algorithms and data structures in C  
+- Modern web development  
+- Lua scripting  
+- Introduction to Rust, Assembly, and Python
 
 ---
 
