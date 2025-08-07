@@ -8,10 +8,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a code enthusiast driven by curiosity to understand how systems work from the inside out.  
-I'm especially interested in cybersecurity, web development, and languages that allow close interaction with hardware.  
-I use **C** to grasp low-level logic, **Lua** for scripting, and **web technologies** to build functional interfaces.  
-I'm also diving into **Rust**, **Assembly**, and **Python** to broaden my perspective as a developer.
+## 💻 About Me
+
+I'm passionate about **cybersecurity**, **low-level programming**, and **web development**.
+
+Currently exploring:
+
+- 🧠 **C** & **Assembly** – digging into how things work under the hood  
+- 🦀 **Rust** – learning safe and modern systems programming  
+- 🐍 **Python** – scripting and automation  
+- 🌐 **HTML / CSS / JavaScript** – building responsive UIs  
+- ⚛️ **React** – modern frontend development  
+- 🌙 **Lua** – scripting in embedded environments and game engines  
+
 
 ---
 
