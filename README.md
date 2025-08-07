@@ -8,40 +8,42 @@
 
 ## 👨‍💻 About Me
 
-I'm passionate about **cybersecurity**, **low-level programming**, and **web development**.
+I'm passionate about **cybersecurity**, **low-level programming**, and **web development**.  
+I enjoy exploring a variety of languages and frameworks to deepen my understanding and build efficient, modern software.
 
-Currently exploring:
+Some key areas I focus on include:
 
-- 🧠 **C** & **Assembly** – digging into how things work under the hood  
-- 🦀 **Rust** – learning safe and modern systems programming  
-- 🐍 **Python** – scripting and automation  
-- 🌐 **HTML / CSS / JavaScript** – building responsive UIs  
-- ⚛️ **React** – modern frontend development  
-- 🌙 **Lua** – scripting in embedded environments and game engines  
-- 🐧 **Linux** – CLI productivity and system internals  
-- 🔧 **Git** – version control and collaboration
+- Systems programming with **C**, **Assembly**, and **Rust**  
+- Scripting and automation using **Python** and **Lua**  
+- Frontend and web development with **HTML**, **CSS**, **JavaScript**, **React**, and **Next.js**  
+- Leveraging tools like **Git**, **Linux**, **Vercel**, and **Bun** to streamline workflows
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  
+#### 👨‍💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnusocial&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### ⚙️ Tools & Platforms
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
-
 
 ---
 
