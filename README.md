@@ -65,7 +65,7 @@ Some key areas I focus on include:
 
 ## 🎧 Playlist
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/0qNOq16dkRt6mAKFEW1Gkf?si=f58d770d35d248c9)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/0NbtIGeh6SAx2mio54RT5H?si=d25895b4682244bf)
 
 ---
 
