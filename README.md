@@ -32,14 +32,6 @@ I use C to grasp low-level logic, Lua for scripting, and web technologies to bui
 
 ---
 
-### 📂 Mis playlists favoritas
-
-[![Playlist 1](https://i.scdn.co/image/YOUR_IMAGE_1)](https://open.spotify.com/playlist/YOUR_ID_1)
-[![Playlist 2](https://i.scdn.co/image/YOUR_IMAGE_2)](https://open.spotify.com/playlist/YOUR_ID_2)
-[![Playlist 3](https://i.scdn.co/image/YOUR_IMAGE_3)](https://open.spotify.com/playlist/YOUR_ID_3)
-
-
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11162796934&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://open.spotify.com/playlist/0qNOq16dkRt6mAKFEW1Gkf?si=1ec2b0f33d9a4407)
 ---
 
