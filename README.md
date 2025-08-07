@@ -1,6 +1,6 @@
 # 🚀 Roger Marín Navarro
 
-## 💻 Aspiring Programmer**  
+## 💻 **Aspiring Programmer**  
  Interested in cybersecurity, low-level programming, and web development  
  Currently exploring C, Lua, HTML/CSS/JS, and learning Rust, Assembly, and Python
 
