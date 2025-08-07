@@ -11,7 +11,7 @@ Interested in cybersecurity, low-level programming, and web development.
 
 Currently learning and exploring: C, Lua, HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS.
 
-Also studying Rust, Assembly, Python, and working with tools like Bun, Vercel, Linux, and Git.
+Also studying Rust, Assembly, Python, databases (MySQL, PostgreSQL, MongoDB), and working with tools like Bun, Vercel, Linux, and Git.
 
 ---
 
@@ -45,6 +45,11 @@ Some key areas I focus on include:
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+#### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 #### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
