@@ -33,24 +33,26 @@ I'm also diving into **Rust**, **Assembly**, and **Python** to broaden my perspe
 ## 📬 Contact
 
 <div align="center">
-  <a 
-    href="https://itzskade.vercel.app" 
-    style="
-      display: inline-block;
-      background-color: #2563eb; /* azul Tailwind 'blue-600' */
-      color: white;
-      padding: 16px 40px;
-      font-size: 1.5rem;
-      font-weight: 600;
-      border-radius: 12px;
-      text-decoration: none;
-      transition: background-color 0.3s ease;
-    "
-    onmouseover="this.style.backgroundColor='#1e40af'" 
-    onmouseout="this.style.backgroundColor='#2563eb'"
-  >
-    Contact Me
-  </a>
+  <form action="https://itzskade.vercel.app" method="get" target="_blank">
+    <button 
+      type="submit" 
+      style="
+        background-color: #2563eb; /* azul Tailwind 'blue-600' */
+        color: white;
+        padding: 16px 40px;
+        font-size: 1.5rem;
+        font-weight: 600;
+        border-radius: 12px;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      "
+      onmouseover="this.style.backgroundColor='#1e40af'" 
+      onmouseout="this.style.backgroundColor='#2563eb'"
+    >
+      Contact Me
+    </button>
+  </form>
 </div>
 
 
