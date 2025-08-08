@@ -66,9 +66,9 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 ---
 
 ## 📬 Contacto
-<p align="center">
+<p align="center" style="margin: 0;">
   <a href="https://itzskade.vercel.app">
-    <img src="https://i.imgur.com/80RIoUj.png" alt="Contáctame" width="300" />
+    <img src="https://i.imgur.com/80RIoUj.png" alt="Contact Me" width="350" />
   </a>
 </p>
 
