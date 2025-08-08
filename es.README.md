@@ -7,6 +7,7 @@
 # Roger Marín Navarro
 
 ## 👨‍💻 Sobre mí
+Actualmente soy estudiante en 42 Barcelona. 
 Me apasiona la **ciberseguridad**, el **hacking ético**,  la **programación de bajo nivel** y el **desarrollo web**.  
 Disfruto explorando distintos lenguajes y frameworks para profundizar mi comprensión y construir software moderno y eficiente.
 
