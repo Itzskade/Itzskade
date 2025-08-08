@@ -8,14 +8,12 @@
 
 ## 👨‍💻 **About me**  
 
-I'm passionate about **cybersecurity**, **low-level programming**, and **web development**.  
+I'm passionate about **cybersecurity**, **ethical hacking**, **low-level programming**, and **web development**.  
 I enjoy exploring a variety of languages and frameworks to deepen my understanding and build efficient, modern software.
 
 ---
 
-### 🛠️ Tech Stack
-
-#### 💻 Currently Studying
+### 💻 Currently Studying
 
 **Languages**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -27,7 +25,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 ---
 
-#### 🔍 Exploring & Learning
+### 🔍 Exploring & Learning
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,20 +42,14 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-
----
-
-#### 🗄️ Databases  
+**Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-#### ⚙️ Tools & Platforms  
+**Tools & Platforms**  
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 
 ---
 
@@ -79,7 +71,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 ## 📬 Contact
 <p align="center">
   <a href="https://itzskade.vercel.app">
-    <img src="https://i.imgur.com/80RIoUj.png" alt="Contact Me" width="400" />
+    <img src="https://i.imgur.com/80RIoUj.png" alt="Contact Me" width="300" />
   </a>
 </p>
 
@@ -92,15 +84,6 @@ Demo: *Coming soon*
 
 ---
 
-## 📚 Currently Learning
-
-- Fundamentals of cybersecurity and ethical hacking  
-- Algorithms and data structures in C  
-- Modern web development  
-- Lua scripting  
-- Introduction to Rust, Assembly, and Python
-
----
 
 ## 💬 Quote That Inspires Me
 
