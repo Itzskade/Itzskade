@@ -9,7 +9,7 @@
 ## 💻 **Aspiring Programmer**  
 Interested in cybersecurity, low-level programming, and web development.
 
-Currently learning and exploring: C, Lua, HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS.
+Currently learning and exploring: C, Lua, HTML, CSS, JavaScript/TypeScript, React, Next.js, and Tailwind CSS.
 
 Also studying Rust, Assembly, Python, databases (MySQL, PostgreSQL, MongoDB), and working with tools like Bun, Vercel, Linux, and Git.
 
@@ -33,6 +33,7 @@ Some key areas I focus on include:
 
 #### 👨‍💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
