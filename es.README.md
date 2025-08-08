@@ -10,7 +10,7 @@
 Me apasiona la **ciberseguridad**, el **hacking ético**,  la **programación de bajo nivel** y el **desarrollo web**.  
 Disfruto explorando distintos lenguajes y frameworks para profundizar mi comprensión y construir software moderno y eficiente.
 
-### 💻 Actualmente estudiando
+### - Actualmente estudiando
 
 **Lenguajes**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -22,7 +22,7 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ---
 
-### 🔍 Explorando y aprendiendo
+### - Explorando y aprendiendo
 
 **Lenguajes**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
