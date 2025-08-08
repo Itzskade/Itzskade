@@ -9,7 +9,7 @@
 ## 💻 **Programador en formación**  
 Interesado en ciberseguridad, programación de bajo nivel y desarrollo web.
 
-Actualmente aprendiendo y explorando: C, Lua, HTML, CSS, JavaScript, React, Next.js y Tailwind CSS.
+Actualmente aprendiendo y explorando: C, Lua, HTML, CSS, JavaScript/TypeScript, React, Next.js y Tailwind CSS.
 
 También estudiando Rust, Assembly, Python, bases de datos (MySQL, PostgreSQL, MongoDB) y trabajando con herramientas como Bun, Vercel, Linux y Git.
 
@@ -33,6 +33,7 @@ Algunas áreas clave en las que me enfoco:
 
 #### 👨‍💻 Lenguajes
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
