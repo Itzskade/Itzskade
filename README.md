@@ -7,14 +7,33 @@
 # Roger Marín Navarro
 
 ## 💻 **Aspiring Programmer**  
-Interested in cybersecurity, low-level programming, and web development.<br><br>
 
-Currently studying: C, C++, Linux, and Git.<br><br>
+Interested in **cybersecurity**, **low-level programming**, and **web development**.
 
-Also exploring and learning: Lua, HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Rust, Assembly, Python, and databases<br>
-<pre style="margin:0">(MySQL, PostgreSQL, MongoDB)    &lt;─┘</pre><br>
+---
 
-Working with tools like Bun and Vercel.
+### Currently studying:
+`C` · `C++` · `Linux` · `Git`
+
+---
+
+### Also exploring and learning:
+`Lua` · `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `Rust` · `Assembly` · `Python`  
+
+---
+
+### Working with tools like:
+`Bun` · `Vercel`
+
+---
+
+### Databases I'm learning:  
+
+<pre style="margin:0; font-family: monospace;">
+MySQL    PostgreSQL    MongoDB
+   ←─────────────── databases
+</pre>
+
 
 
 
