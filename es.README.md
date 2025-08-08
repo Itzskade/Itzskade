@@ -12,7 +12,7 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ### 🛠️ Stack Tecnológico
 
-#### 💻 Currently Studying
+#### 💻 Actualmente estudiando
 
 **Lenguajes**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -24,7 +24,7 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ---
 
-#### 🔍 Exploring & Learning
+#### 🔍 Explorando y aprendiendo
 
 **Lenguajes**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +34,7 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
 
-**Web Development**  
+**Desarrollo web**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
