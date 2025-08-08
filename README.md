@@ -7,8 +7,7 @@
 # Roger Marín Navarro
 
 ## 👨‍💻 **About me**  
-
-I am currently a student at 42 Barcelona.  
+Currently student at 42 Barcelona.  
 I'm passionate about **cybersecurity**, **ethical hacking**, **low-level programming**, and **web development**.  
 I enjoy exploring a variety of languages and frameworks to deepen my understanding and build efficient, modern software.
 
