@@ -10,8 +10,6 @@
 Me apasiona la **ciberseguridad**, la **programación de bajo nivel** y el **desarrollo web**.  
 Disfruto explorando distintos lenguajes y frameworks para profundizar mi comprensión y construir software moderno y eficiente.
 
-### 🛠️ Stack Tecnológico
-
 #### 💻 Actualmente estudiando
 
 **Lenguajes**  
