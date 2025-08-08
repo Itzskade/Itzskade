@@ -6,15 +6,16 @@
 
 # Roger Marín Navarro
 
-## 💻 **Aspiring Programmer**  
+## 👨‍💻 **About me**  
 
-Interested in **cybersecurity**, **low-level programming**, and **web development**.
+I'm passionate about **cybersecurity**, **low-level programming**, and **web development**.  
+I enjoy exploring a variety of languages and frameworks to deepen my understanding and build efficient, modern software.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 👨‍🎓 Currently Studying
+#### 💻 Currently Studying
 
 **Languages**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -57,52 +58,6 @@ Interested in **cybersecurity**, **low-level programming**, and **web developmen
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
----
-
-## 👨‍💻 About Me
-
-I'm passionate about **cybersecurity**, **low-level programming**, and **web development**.  
-I enjoy exploring a variety of languages and frameworks to deepen my understanding and build efficient, modern software.
-
-Some key areas I focus on include:
-
-- Systems programming with **C**, **Assembly**, and **Rust**  
-- Scripting and automation using **Python** and **Lua**  
-- Frontend and web development with **HTML**, **CSS**, **JavaScript**, **React**, and **Next.js**  
-- Leveraging tools like **Git**, **Linux**, **Vercel**, and **Bun** to streamline workflows
-
----
-
-### 🛠️ Tech Stack
-
-#### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-#### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-#### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-
-#### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 ---
 
