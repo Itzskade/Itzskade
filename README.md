@@ -69,11 +69,11 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 ---
 
 ## 📬 Contact
-<p align="center">
+<div align="center" style="margin: 0;">
   <a href="https://itzskade.vercel.app">
     <img src="https://i.imgur.com/80RIoUj.png" alt="Contact Me" width="300" />
   </a>
-</p>
+</div>
 
 ---
 
