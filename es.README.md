@@ -7,7 +7,7 @@
 # Roger Marín Navarro
 
 ## 👨‍💻 Sobre mí
-Me apasiona la **ciberseguridad**, la **programación de bajo nivel** y el **desarrollo web**.  
+Me apasiona la **ciberseguridad**, el **hacking ético**,  la **programación de bajo nivel** y el **desarrollo web**.  
 Disfruto explorando distintos lenguajes y frameworks para profundizar mi comprensión y construir software moderno y eficiente.
 
 #### 💻 Actualmente estudiando
@@ -78,16 +78,6 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 Repositorio: [web-portfolio](https://github.com/Itzskade/web-portfolio)  
 Demo: *Próximamente*
-
----
-
-## 📚 Actualmente aprendiendo
-
-- Fundamentos de ciberseguridad y hacking ético  
-- Algoritmos y estructuras de datos en C  
-- Desarrollo web moderno  
-- Scripting con Lua  
-- Introducción a Rust, Assembly y Python
 
 ---
 
