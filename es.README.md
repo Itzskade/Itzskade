@@ -9,7 +9,7 @@
 ## 💻 **Programador en formación**  
 Interesado en ciberseguridad, programación de bajo nivel y desarrollo web.
 
-Actualmente aprendiendo y explorando: C, Lua, HTML, CSS, JavaScript/TypeScript, React, Next.js y Tailwind CSS.
+Actualmente aprendiendo y explorando: C, Lua, HTML, CSS, JavaScript, TypeScript, React, Next.js y Tailwind CSS.
 
 También estudiando Rust, Assembly, Python, bases de datos (MySQL, PostgreSQL, MongoDB) y trabajando con herramientas como Bun, Vercel, Linux y Git.
 
