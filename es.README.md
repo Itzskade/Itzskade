@@ -29,7 +29,7 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### **Desarrollo web**
+### **Desarrollo web**
 
 **Front End**   
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
