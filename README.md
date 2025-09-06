@@ -56,12 +56,6 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 ---
 
-## 🎧 Playlist
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/0NbtIGeh6SAx2mio54RT5H?si=d25895b4682244bf)
-
----
-
 ## 📬 Contact
 <p align="center">
   <a href="https://itzskade.vercel.app">
