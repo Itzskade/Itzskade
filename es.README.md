@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mí
 Actual estudiante en 42 Barcelona.  
-Me apasiona la **ciberseguridad**, el **hacking ético**,  la **programación de bajo nivel** y el **desarrollo web**.  
+Me apasiona la **ciberseguridad**, el **hacking ético** y la **programación de bajo nivel**.
 Disfruto explorando distintos lenguajes y frameworks para profundizar mi comprensión y construir software moderno y eficiente.
 
 ##  Actualmente estudiando
