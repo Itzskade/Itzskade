@@ -20,7 +20,7 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ### **Herramientas y Plataformas**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-4EAA25?style=for-the-badge&logo=openssh&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-22%2Ftcp-2c3e50?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
