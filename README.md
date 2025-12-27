@@ -40,7 +40,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
     </td>
   </tr>
 </table>  
-
+   
 ### **Languages**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
