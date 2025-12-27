@@ -13,7 +13,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 ---
 
-## 📚 Currently Studying
+## 🛠️ Skills & Tools
 
 <table>
   <tr>
