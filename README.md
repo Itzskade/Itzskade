@@ -14,8 +14,6 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 ---
 
 ## Currently Studying
-
-## Currently Studying
 <table align="left">
   <tr>
     <th>Languages</th>
@@ -40,6 +38,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
   </tr>
 </table>             
 
+--- 
 
 ### **Languages**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
