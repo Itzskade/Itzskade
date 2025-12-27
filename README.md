@@ -46,23 +46,16 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itzskade&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzskade&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Itzskade&theme=tokyonight)
 
 
 
 ---
 
 ## 📬 Contact
-<p align="center">
+<p align="left">
   <a href="https://itzskade.vercel.app">
     <img src="https://i.imgur.com/80RIoUj.png" alt="Contact Me" width="350" />
   </a>
