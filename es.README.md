@@ -13,7 +13,7 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ---
 
-## Currently Studying
+## Actualmente estudiando
 
 <table>
   <tr>
