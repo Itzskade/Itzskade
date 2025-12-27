@@ -43,10 +43,10 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 </table>
 
 --- 
-
+ ##
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="30" alt="42 Logo" />
- ## Finish projects
+ Finish projects
 </p>
 
 
