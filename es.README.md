@@ -46,7 +46,7 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="35" /> Proyectos finalizados
 
-| Milestone                                         | Proyecto                                                   | Descripción                                                                     | Lenguaje  | Puntuación                                                |
+| Milestone                                         | Proyecto                                                   | Descripción                                                                     | Lenguajes | Puntuación                                                |
 |---------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------|-----------|-----------------------------------------------------------|
 | ![M0](https://img.shields.io/badge/M0-%237C3AED)  | [Libft](https://github.com/Itzskade/Libft)                 | Implementación personalizada de las funciones principales de la biblioteca C    | C         | ![Score](https://img.shields.io/badge/125/100-%237C3AED)  |
 | ![M1](https://img.shields.io/badge/M1-%23DC143C)  | [Printf](https://github.com/Itzskade/ft_printf)            | Recrea la función printf() con gestión de salida formateada                     | C         | ![Score](https://img.shields.io/badge/100/100-%23DC143C)  |
