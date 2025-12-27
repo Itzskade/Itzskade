@@ -44,6 +44,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 --- 
 
+# ![42](https://img.shields.io/badge/42-42-blue?style=for-the-badge) Projects
 
 | Milestone                                    | Project       | Overview                                                       | Languages | Score                                                      |
 |----------------------------------------------|---------------|----------------------------------------------------------------|-----------|------------------------------------------------------------|
