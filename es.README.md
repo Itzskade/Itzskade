@@ -13,7 +13,7 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ---
 
-## 📚 Habilidades y herramientas
+## 🛠️ Habilidades y herramientas
 
 <table>
   <tr>
