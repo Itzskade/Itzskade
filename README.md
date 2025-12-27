@@ -16,7 +16,6 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 ## Currently Studying
 
 ## Currently Studying
-
 <table align="left">
   <tr>
     <th>Languages</th>
@@ -39,8 +38,9 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original.svg" width="40"/>
     </td>
   </tr>
-</table>  
-   
+</table>             
+
+
 ### **Languages**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
