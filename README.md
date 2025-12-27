@@ -48,10 +48,6 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
   <img src="https://raw.githubusercontent.com/Itzskade/assets-42/main/42-logo.png" width="100" alt="42 Logo" />
 </p>
 
-
-
-
-
 | Milestone                                    | Project       | Overview                                                       | Languages | Score                                                      |
 |----------------------------------------------|---------------|----------------------------------------------------------------|-----------|------------------------------------------------------------|
 | ![M0](https://img.shields.io/badge/M0-blue)  | Libft         | Custom implementation of core C library functions              | C         | ![Score](https://img.shields.io/badge/125/100-blue)  |
