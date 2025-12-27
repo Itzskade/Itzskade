@@ -44,7 +44,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 --- 
 
-# <img src="./assets/42-logo.svg" alt="42 Logo" width="40" /> 42 Projects
+![Logo 42](raw.githubusercontent.com)
 
 
 | Milestone                                    | Project       | Overview                                                       | Languages | Score                                                      |
