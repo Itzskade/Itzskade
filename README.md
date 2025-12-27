@@ -47,7 +47,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="35" /> Finish projects
 
-| Milestone                                        | Project                                                    | Overview                                                       | Languages | Score                                                      |
+| Milestone                                        | Project                                                    | Overview                                                       | Language  | Score                                                      |
 |--------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------|-----------|------------------------------------------------------------|
 | ![M0](https://img.shields.io/badge/M0-%237C3AED) | [Libft](https://github.com/Itzskade/Libft)                 | Custom implementation of core C library functions              | C         | ![Score](https://img.shields.io/badge/125/100-%237C3AED)   |
 | ![M1](https://img.shields.io/badge/M1-%23DC143C) | [Printf](https://github.com/Itzskade/Printf)               | Recreate the printf() function with formatted output handling  | C         | ![Score](https://img.shields.io/badge/100/100-%23DC143C)   |
