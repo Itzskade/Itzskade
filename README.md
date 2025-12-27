@@ -44,7 +44,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 --- 
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" style="vertical-align:middle;" width="35" alt="42 Logo" />  **Finish projects**
+## <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" style="vertical-align:low;" width="35" alt="42 Logo" />  **Finish projects**
 
 
 | Milestone                                        | Project                                                    | Overview                                                       | Languages | Score                                                      |
