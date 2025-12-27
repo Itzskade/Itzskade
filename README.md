@@ -17,6 +17,35 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 ## Currently Studying
 
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>OS</th>
+    <th>Development Tools</th>
+    <th>Stats</th>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+    </td>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=Itzskade&color=green"/>
+      <br>
+      ⭐ 3
+    </td>
+  </tr>
+</table>
+
 ### Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
