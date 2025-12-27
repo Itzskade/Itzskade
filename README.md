@@ -24,7 +24,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
   </tr>
   <tr align="center">
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="60"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
     </td>
     <td>
