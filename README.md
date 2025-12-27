@@ -53,7 +53,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 | ![M0](https://img.shields.io/badge/M0-%2312bab9)  | Libft         | Custom implementation of core C library functions              | C         | ![Score](https://img.shields.io/badge/125/100-%2312bab9)  |
 | ![M1](https://img.shields.io/badge/M1-green) | Printf        | Recreate the printf() function with formatted output handling  | C         | ![Score](https://img.shields.io/badge/100/100-green) |
 | ![M1](https://img.shields.io/badge/M1-green) | Get_next_line | Function to read one line at a time from a file descriptor     | C         | ![Score](https://img.shields.io/badge/125/100-green) |
-| ![M2](https://img.shields.io/badge/M2-red)   | Push Swap     | Sort integers using two stacks and limited operations          | C         | ![Score](https://img.shields.io/badge/84/100-red)    |
+| ![M2](https://img.shields.io/badge/M2-red)   | Push Swap     | Sort integers using two stacks and limited operations          | C         | ![Score](https://img.shields.io/badge/84/100-%23EF4444)    |
 
 ---
 
