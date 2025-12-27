@@ -44,7 +44,10 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 --- 
 
-![42](https://img.shields.io/badge/-black?style=for-the-badge&logo=42&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=42&logoColor=white" alt="42 Badge" width="150" />
+</p>
+
 
 
 
