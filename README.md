@@ -55,21 +55,8 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 </p>
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itzskade&show_icons=true&theme=tokyonight)
-
-## 🔥 Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Itzskade&theme=tokyonight)
 
-## 🏆 Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Itzskade&theme=tokyonight)
-
-## 📘 Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzskade&layout=compact&theme=tokyonight)
 
 
 ---
