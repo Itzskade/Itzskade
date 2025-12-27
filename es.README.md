@@ -44,12 +44,12 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ---
 
-| Milestone                                         | Proyecto      | Descripción                                                                     | Lenguaje  | Puntuación                                                |
-|---------------------------------------------------|---------------|---------------------------------------------------------------------------------|-----------|-----------------------------------------------------------|
-| ![M0](https://img.shields.io/badge/M0-%237C3AED)  | Libft         | Implementación personalizada de las funciones principales de la biblioteca C    | C         | ![Score](https://img.shields.io/badge/125/100-%237C3AED)  |
-| ![M1](https://img.shields.io/badge/M1-%23EF4444)  | Printf        | Recrea la función printf() con gestión de salida formateada                     | C         | ![Score](https://img.shields.io/badge/100/100-%23EF4444)  |
-| ![M1](https://img.shields.io/badge/M1-%23EF4444)  | Get_next_line | Función para leer una línea a la vez desde un descriptor de archivo             | C         | ![Score](https://img.shields.io/badge/125/100-%23EF4444)  |
-| ![M2](https://img.shields.io/badge/M2-%2312bab9)  | Push Swap     | Ordena enteros usando dos pilas y operaciones limitadas                         | C         | ![Score](https://img.shields.io/badge/84/100-%2312bab9)   |
+| Milestone                                         | Proyecto                                                   | Descripción                                                                     | Lenguaje  | Puntuación                                                |
+|---------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------|-----------|-----------------------------------------------------------|
+| ![M0](https://img.shields.io/badge/M0-%237C3AED)  | [Libft](https://github.com/Itzskade/Libft)                 | Implementación personalizada de las funciones principales de la biblioteca C    | C         | ![Score](https://img.shields.io/badge/125/100-%237C3AED)  |
+| ![M1](https://img.shields.io/badge/M1-%23EF4444)  | [Printf](https://github.com/Itzskade/ft_printf)            | Recrea la función printf() con gestión de salida formateada                     | C         | ![Score](https://img.shields.io/badge/100/100-%23EF4444)  |
+| ![M1](https://img.shields.io/badge/M1-%23EF4444)  | [Get_next_line](https://github.com/Itzskade/Get_next_line) | Función para leer una línea a la vez desde un descriptor de archivo             | C         | ![Score](https://img.shields.io/badge/125/100-%23EF4444)  |
+| ![M2](https://img.shields.io/badge/M2-%2312bab9)  | [Push Swap](https://github.com/Itzskade/Pus_Swap)          | Ordena enteros usando dos pilas y operaciones limitadas                         | C         | ![Score](https://img.shields.io/badge/84/100-%2312bab9)   |
 
 ---
 
