@@ -44,7 +44,8 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 --- 
 
-![42](https://img.shields.io/badge/logo=42&logoColor=white)
+![42](https://img.shields.io/badge/-black?style=for-the-badge&logo=42&logoColor=white)
+
 
 
 
