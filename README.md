@@ -43,11 +43,12 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 </table>
 
 --- 
- ##
-<p align="left">
+
+<div align="left" style="display:flex; align-items:center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="30" alt="42 Logo" />
- Finish projects
-</p>
+  <h2 style="margin-left:10px;">Finish projects</h2>
+</div>
+
 
 
 | Milestone                                        | Project                                                    | Overview                                                       | Languages | Score                                                      |
