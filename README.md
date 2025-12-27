@@ -47,7 +47,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 ## 📊 GitHub Stats
 
 <p align="center">
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=Itzskade&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
 <p align="center">
