@@ -47,7 +47,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://gh-stats-gen.vercel.app/api/profile?username=Itzskade&theme=tokyonight" alt="GitHub Stats Alternative" />
+  <img src="https://gh-stats-gen.vercel.app/api/profile?username=Itzskade&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 
