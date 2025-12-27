@@ -47,7 +47,7 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itzskade&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Itzskade&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzskade&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
