@@ -45,7 +45,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 --- 
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="100" alt="42 Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="30" alt="42 Logo" />
   Finish projects
 </p>
 
