@@ -22,7 +22,6 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
     <th>Languages</th>
     <th>OS</th>
     <th>Development Tools</th>
-    <th>Stats</th>
   </tr>
   <tr align="center">
     <td>
@@ -37,11 +36,6 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-    </td>
-    <td>
-      <img src="https://komarev.com/ghpvc/?username=Itzskade&color=green"/>
-      <br>
-      ⭐ 3
     </td>
   </tr>
 </table>
