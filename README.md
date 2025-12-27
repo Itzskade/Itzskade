@@ -44,7 +44,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 --- 
 
-# ![42](https://img.shields.io/badge/42-42-blue?style=for-the-badge) Projects
+# # <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/42_Logo.svg" alt="42" width="40"/> 42 Projects
 
 | Milestone                                    | Project       | Overview                                                       | Languages | Score                                                      |
 |----------------------------------------------|---------------|----------------------------------------------------------------|-----------|------------------------------------------------------------|
