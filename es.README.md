@@ -44,6 +44,8 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ---
 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="35" /> ** Proyectos finalizados**
+
 | Milestone                                         | Proyecto                                                   | Descripción                                                                     | Lenguaje  | Puntuación                                                |
 |---------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------|-----------|-----------------------------------------------------------|
 | ![M0](https://img.shields.io/badge/M0-%237C3AED)  | [Libft](https://github.com/Itzskade/Libft)                 | Implementación personalizada de las funciones principales de la biblioteca C    | C         | ![Score](https://img.shields.io/badge/125/100-%237C3AED)  |
