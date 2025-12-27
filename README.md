@@ -39,7 +39,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" width="65" />
-      <img src="https://substackcdn.com/image/fetch/$s_!OD-b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e2b1c42-d477-4dbb-98fc-17c229688f3b_512x512.png" width="60" />
+      <img src="https://miro.medium.com/v2/1*HNHBR7erhic2wGOHKymoBA.png" width="60" />
      <img src="https://cdn-icons-png.flaticon.com/512/5136/5136897.png" width="60" />
     </td>
   </tr>
