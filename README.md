@@ -40,7 +40,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
       <img src="https://miro.medium.com/v2/1*HNHBR7erhic2wGOHKymoBA.png" width="60" />
       <img src="https://cdn-icons-png.flaticon.com/512/5136/5136897.png" width="60" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/OpenSSH_Logo.svg" width="60" />
+      <img src="https://en.wikipedia.org/wiki/OpenSSH#/media/File:OpenSSH_logo.png" width="60" />
     </td>
   </tr>
 </table>
