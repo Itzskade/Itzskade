@@ -48,7 +48,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Itzskade&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzskade&layout=default&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzskade&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
 ---
