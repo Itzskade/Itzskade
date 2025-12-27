@@ -45,7 +45,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 --- 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/tu-usuario/assets-42/main/42-logo.png" width="100" alt="42 Logo" />
+  <img src="https://raw.githubusercontent.com/Itzskade/assets-42/main/42-logo.png" width="100" alt="42 Logo" />
 </p>
 
 
