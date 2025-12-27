@@ -55,6 +55,23 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 </p>
 
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight)
+
+## 🏆 Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight)
+
+## 📘 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+
+
 ---
 
 ## 📬 Contact
