@@ -14,11 +14,13 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 ---
 
 ## Currently Studying
-<table align="left">
+
+<table>
   <tr>
-    <th>Languages</th>
-    <th>OS</th>
-    <th>Development Tools</th>
+    <th align="center">Languages</th>
+    <th align="center">OS</th>
+    <th align="center">Shell</th>
+    <th align="center">Development Tools</th>
   </tr>
   <tr align="center">
     <td>
@@ -29,14 +31,16 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original.svg" width="40"/>
     </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+    </td>
   </tr>
-</table>             
+</table>
 
 --- 
 
