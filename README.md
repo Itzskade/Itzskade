@@ -46,10 +46,10 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 | Milestone | Project       | Description                                                       | Languages | Score       |
 |-----------|---------------|-------------------------------------------------------------------|-----------|------------|
-| M2        | Push Swap     | Sorting algorithm with restricted operations between 2 stacks    | C         | ![Static Badge](https://img.shields.io/badge/Score-100-red) |
-| M1        | Get_next_line | Reading one line at a time from a file descriptor handling arbitrary buffer sizes | C | ![Static Badge](https://img.shields.io/badge/Score-100-green) |
-| M1        | Printf        | Reimplementation of the C library function printf()               | C         | ![Static Badge](https://img.shields.io/badge/Score-100-green) |
-| M0        | Libft         | Reimplementation of basic C library functions                     | C         | ![Static Badge](https://img.shields.io/badge/Score-100-blue) |
+| M2        | Push Swap     | Sorting algorithm with restricted operations between 2 stacks    | C         | ![Static Badge](https://img.shields.io/badge/Score-84/100-red) |
+| M1        | Get_next_line | Reading one line at a time from a file descriptor handling arbitrary buffer sizes | C | ![Static Badge](https://img.shields.io/badge/Score-125/100-green) |
+| M1        | Printf        | Reimplementation of the C library function printf()               | C         | ![Static Badge](https://img.shields.io/badge/Score-100/100-green) |
+| M0        | Libft         | Reimplementation of basic C library functions                     | C         | ![Static Badge](https://img.shields.io/badge/Score-125/100-blue) |
 
 
 ## 📊 GitHub Stats
