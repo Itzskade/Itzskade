@@ -17,7 +17,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 ## Currently Studying
 
-<table align="center">
+<table align="left">
   <tr>
     <th>Languages</th>
     <th>OS</th>
