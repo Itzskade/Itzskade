@@ -61,8 +61,11 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 <p align="left">
   <img src="https://github-stats-kappa-swart.vercel.app/api/stats?username=Itzskade&layout=compact&theme=dracula") />
   <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=Itzskade&layout=compact&theme=dracula") />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzskade&layout=compact&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Itzskade&show_icons=true&theme=tokyonight" />
+
+
+![GitHub Stats](https://github-stats-kappa-swart.vercel.app/api/stats?username=Itzskade&show_icons=true&theme=dracula)
+![Top Langs](https://github-stats-kappa-swart.vercel.app/api/top-langs?username=Itzskade&layout=compact&theme=dracula)
+
 </p>
 
 ---
