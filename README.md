@@ -59,7 +59,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-stats-kappa-swart.vercel.app/api/stats?username=Itzskade&layout=compact&show_icons=true&theme=dracula" />
+  <img src="https://github-stats-kappa-swart.vercel.app/api/stats?username=Itzskade&layout=compact&theme=dracula" />
   <!-- <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=Itzskade&layout=compact&theme=dracula" /> -->
 </p>
 
