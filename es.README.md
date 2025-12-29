@@ -6,14 +6,14 @@
 
 # Roger Marín Navarro
 
-## 👨‍💻 Sobre mí
+<h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDAzMHRrZGQ4Z2Exd2x1NGp0dGt3aHdkOGk5cTl4dGN2cHRudmVweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="45" /> Sobre mí </h2>   
 Actual estudiante en 42 Barcelona.  
 Me apasiona la **ciberseguridad**, el **hacking ético** y la **programación de bajo nivel**.  
 Disfruto explorando distintos lenguajes y frameworks para profundizar mi comprensión y construir software moderno y eficiente.
 
 ---
 
-## 🛠️ Habilidades y herramientas
+ <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN0Z3V3eWE1dHRoenN2Y3F6c3ZrZ2w3Y3lrbnRpdm8xbjNndGt1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="45" /> Habilidades y herramientas </h2>   
 
 <table>
   <tr>
@@ -55,7 +55,7 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ---
 
-## 📊 Estadísticas de GitHub
+<h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajgyZXczNzNxenh2MHF5cXpvenY0YTJjaDc4ZzdhY2R6a2szNXFtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUQHpQ3UjFBfRlQekP/giphy.gif"  width="45" /> Estadísticas de GitHub </h2>
 
 <div align="left">
    <img src="https://github-stats-kappa-swart.vercel.app/api/stats?username=Itzskade&layout=compact&theme=dracula") /> 
@@ -64,7 +64,7 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ---
 
-## 📬 Contacto
+<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB5ajJvZ2o4a2xhaXNobDN5dTI1a2Fzdmk2NDF6Y250N2Y0ZHAxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uHOijVgJLhzB2QEKUq/giphy.gif" width="45" /> Contacto </h2>
 <p align="left">
   <a href="https://itzskade.vercel.app">
     <img src="https://i.imgur.com/80RIoUj.png" alt="Contact Me" width="350" />
@@ -73,14 +73,14 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ---
 
-## 🌐 Mini Portafolio Web
+<h2> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U1dTlnMG1hbWF0dGNvanQxZ3ptM3p4Mng3eHA0OW9obXVnOXpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1lFYFYndRlBNjUoE0H/giphy.gif" width="45" /> Mini Portafolio Web </h2>
 
 Repositorio: [web-portfolio](https://github.com/Itzskade/web-portfolio)  
-Demo: *Próximamente*
+Demo: <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo2aGRuZ284aTB0Z2k5bTQzODM2M2VjYTdvOWNuempwa3g4ZjF3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYpelo7WbjZQg0dDQY/giphy.gif" width="60" />
 
 ---
 
-## 💬 Frase que me inspira
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXMyeGE0NjJlb2MzcGx6NHB5cjZwODVjYzlndmRyODJyaGNsY2kxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPCbGMd9phguQ8ULbD/giphy.gif" width="45" /> Frase que me inspira </h2>
 
 > “No hay atajos hacia ningún lugar que valga la pena.” — *Beverly Sills*
 
