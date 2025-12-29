@@ -84,7 +84,9 @@ Demo: *Coming soon*
 ---
 
 
-## 💬 Quote That Inspires Me
+## 💬
+
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXMyeGE0NjJlb2MzcGx6NHB5cjZwODVjYzlndmRyODJyaGNsY2kxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPCbGMd9phguQ8ULbD/giphy.gif" width="45" /> Quote That Inspires Me </h2>
 
 > “There are no shortcuts to any place worth going.” — *Beverly Sills*
 
