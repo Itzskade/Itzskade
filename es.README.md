@@ -45,7 +45,7 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ---
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="35" /> Proyectos finalizados
+<h2><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="35" /> Proyectos finalizados </h2>
 
 | Milestone                                         | Proyecto                                                   | Descripción                                                                     | Lenguajes | Puntuación                                                |
 |---------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------|-----------|-----------------------------------------------------------|
