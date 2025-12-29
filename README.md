@@ -4,9 +4,8 @@
   </a>
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/Itzskade?label=Followers&style=for-the-badge)
-![GitHub repos](https://img.shields.io/github/public-repos/Itzskade?label=Public+Repos&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Itzskade?label=Stars&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/Itzskade/REPO-NAME?style=for-the-badge&logo=github)
+
 
 
 <h1> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U1dTlnMG1hbWF0dGNvanQxZ3ptM3p4Mng3eHA0OW9obXVnOXpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1lFYFYndRlBNjUoE0H/giphy.gif" width="45" /> Roger Marín Navarro </h1>
