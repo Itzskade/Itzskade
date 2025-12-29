@@ -25,14 +25,14 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
   </tr>
   <tr align="center">
     <td>
+      <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="60"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+    </td>
+    <td>
       <img src="https://camo.githubusercontent.com/4d025bd80b45a763b721f73c19d08a66db09b02a91e68ceee1f62c5b24dbc7c5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66312f49636f6e73385f666c61745f6c696e75782e7376672f3230343870782d49636f6e73385f666c61745f6c696e75782e7376672e706e67" width="60"/>
     </td>
     <td>  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original.svg" width="57"/>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="60"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
