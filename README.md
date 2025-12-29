@@ -6,14 +6,14 @@
 
 # Roger Marín Navarro
 
-##<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDAzMHRrZGQ4Z2Exd2x1NGp0dGt3aHdkOGk5cTl4dGN2cHRudmVweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="45" /> About me 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDAzMHRrZGQ4Z2Exd2x1NGp0dGt3aHdkOGk5cTl4dGN2cHRudmVweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="45" /> ## About me 
 Currently student at 42 Barcelona.  
 I'm passionate about **cybersecurity**, **ethical hacking** and **low-level programming**.  
 I enjoy exploring a variety of languages and frameworks to deepen my understanding and build efficient, modern software.
 
 ---
 
- ##<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN0Z3V3eWE1dHRoenN2Y3F6c3ZrZ2w3Y3lrbnRpdm8xbjNndGt1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="45" />Skills & Tools
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN0Z3V3eWE1dHRoenN2Y3F6c3ZrZ2w3Y3lrbnRpdm8xbjNndGt1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="45" /> ## Skills & Tools
 
 <table>
   <tr>
