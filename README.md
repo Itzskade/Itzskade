@@ -63,6 +63,9 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 <img src="https://camo.githubusercontent.com/debedcde4c2b8801bf278caf662d551677dfd8abfaca244c6a32bcd8a090b7c1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f4974737661677561796f3f7374796c653d736f6369616c" width="100" style="display:inline-block;" />
 <img src="https://img.shields.io/github/followers/Itzskade?label=Followers&style=flat" />
 
+![GitHub Stars](https://github-readme-stats.vercel.app/api?username=Itzskade&show_icons=true&count_private=true&theme=dracula&hide=issues,contribs,prs,commits)
+
+
 <p align="left">
   <img src="https://github-stats-kappa-swart.vercel.app/api/stats?username=Itzskade&layout=compact&theme=dracula" />
   <!-- <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=Itzskade&layout=compact&theme=dracula" /> -->
