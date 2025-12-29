@@ -13,7 +13,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 ---
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN0Z3V3eWE1dHRoenN2Y3F6c3ZrZ2w3Y3lrbnRpdm8xbjNndGt1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="30" /> Skills & Tools
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN0Z3V3eWE1dHRoenN2Y3F6c3ZrZ2w3Y3lrbnRpdm8xbjNndGt1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="45" /> Skills & Tools
 
 <table>
   <tr>
