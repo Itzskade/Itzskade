@@ -63,11 +63,6 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
   <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=Itzskade&layout=compact&theme=dracula") />
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Itzskade&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Itzskade&layout=compact&theme=dracula)
-
-
-
 ---
 
 ## 📬 Contact
