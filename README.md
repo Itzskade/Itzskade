@@ -73,7 +73,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 <p align="left">
   <a href="https://itzskade.vercel.app">
-    <img src="https://i.imgur.com/80RIoUj.png" alt="Contact Me" width="280" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB5ajJvZ2o4a2xhaXNobDN5dTI1a2Fzdmk2NDF6Y250N2Y0ZHAxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uHOijVgJLhzB2QEKUq/giphy.gif" width="150" width="280" />
   </a>
 </p>
 
