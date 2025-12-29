@@ -59,6 +59,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 <h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xnaHAzZ2huMHluYjV5dWJsbHpzdjc1ODJlZWp4OXlicTAwazFpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YOBYiO1RiAfK1cvI8l/giphy.gif" width="45" /> GitHub Stats</h2>
 <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnM5dmFzcTg3ajc3cmIwYnE3Z2p1bXF2MjYyNGVwbnlzcDRyZzJodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDGQgJLkOlSKe08e74/giphy.gif"  width="45" /> GitHub Stats</h2>
 <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajgyZXczNzNxenh2MHF5cXpvenY0YTJjaDc4ZzdhY2R6a2szNXFtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUQHpQ3UjFBfRlQekP/giphy.gif"  width="45" /> GitHub Stats</h2>
+<h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpxazJiZmFrdHVycjk1ZTVtenNrcXJzbzJ3c2Vqd3AxcXQ1YmRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wEuADpdR3GHy13Py9m/giphy.gif"  width="45" /> GitHub Stats</h2>
 
 <p align="left">
   <img src="https://github-stats-kappa-swart.vercel.app/api/stats?username=Itzskade&layout=compact&theme=dracula" />
