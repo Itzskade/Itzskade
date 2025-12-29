@@ -43,6 +43,9 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
   </tr>
 </table>
 
+![Stats](https://github-stats-kappa-swart.vercel.app/api/stats?username=Itzskade)
+
+
 --- 
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="35" /> Finish projects
