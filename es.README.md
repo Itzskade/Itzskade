@@ -58,8 +58,8 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 ## 📊 Estadísticas de GitHub
 
 <div align="left">
+  <!-- <img src="https://github-stats-kappa-swart.vercel.app/api/stats?username=Itzskade&layout=compact&theme=dracula") /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzskade&theme=dracula" />
-  <img src="https://github-stats-kappa-swart.vercel.app/api/stats?username=Itzskade&layout=compact&theme=dracula") />
 </div>
 
 ---
