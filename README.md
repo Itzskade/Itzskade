@@ -66,6 +66,14 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
   <!-- <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=Itzskade&layout=compact&theme=dracula" /> -->
 </p>
 
+
+---
+
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U1dTlnMG1hbWF0dGNvanQxZ3ptM3p4Mng3eHA0OW9obXVnOXpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1lFYFYndRlBNjUoE0H/giphy.gif" width="45" /> Mini Web Portfolio </h2> 
+
+Repository: [web-portfolio](https://github.com/Itzskade/web-portfolio)      
+Demo:  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo2aGRuZ284aTB0Z2k5bTQzODM2M2VjYTdvOWNuempwa3g4ZjF3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYpelo7WbjZQg0dDQY/giphy.gif" width="60" /> 
+
 ---
 
 <h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB5ajJvZ2o4a2xhaXNobDN5dTI1a2Fzdmk2NDF6Y250N2Y0ZHAxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uHOijVgJLhzB2QEKUq/giphy.gif" width="45" /> Contact</h2>
@@ -75,13 +83,6 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
     <img src="https://i.imgur.com/80RIoUj.png" alt="Contact Me" width="280" />
   </a>
 </p>
-
----
-
-<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U1dTlnMG1hbWF0dGNvanQxZ3ptM3p4Mng3eHA0OW9obXVnOXpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1lFYFYndRlBNjUoE0H/giphy.gif" width="45" /> Mini Web Portfolio </h2> 
-
-Repository: [web-portfolio](https://github.com/Itzskade/web-portfolio)      
-Demo:  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo2aGRuZ284aTB0Z2k5bTQzODM2M2VjYTdvOWNuempwa3g4ZjF3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYpelo7WbjZQg0dDQY/giphy.gif" width="60" /> 
 
 ---
 
