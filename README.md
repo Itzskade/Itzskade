@@ -79,7 +79,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 ## 🌐 Mini Web Portfolio
 
 Repository: [web-portfolio](https://github.com/Itzskade/web-portfolio)  
-Demo:  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo2aGRuZ284aTB0Z2k5bTQzODM2M2VjYTdvOWNuempwa3g4ZjF3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYpelo7WbjZQg0dDQY/giphy.gif" width="35" /> *Coming soon*
+Demo:  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo2aGRuZ284aTB0Z2k5bTQzODM2M2VjYTdvOWNuempwa3g4ZjF3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYpelo7WbjZQg0dDQY/giphy.gif" width="45" /> *Coming soon*
 
 ---
 
