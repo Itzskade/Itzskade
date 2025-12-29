@@ -4,6 +4,10 @@
   </a>
 </p>
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Itzskade&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Itzskade&layout=compact&theme=dracula)
+
+
 # Roger Marín Navarro
 
 ## 👨‍💻 **About me**  
