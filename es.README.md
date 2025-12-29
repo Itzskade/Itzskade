@@ -75,13 +75,6 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ---
 
-<h2> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U1dTlnMG1hbWF0dGNvanQxZ3ptM3p4Mng3eHA0OW9obXVnOXpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1lFYFYndRlBNjUoE0H/giphy.gif" width="45" /> Mini Portafolio Web </h2>
-
-Repositorio: [web-portfolio](https://github.com/Itzskade/web-portfolio)  
-Demo: <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo2aGRuZ284aTB0Z2k5bTQzODM2M2VjYTdvOWNuempwa3g4ZjF3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYpelo7WbjZQg0dDQY/giphy.gif" width="60" />
-
----
-
 <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXMyeGE0NjJlb2MzcGx6NHB5cjZwODVjYzlndmRyODJyaGNsY2kxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPCbGMd9phguQ8ULbD/giphy.gif" width="45" /> Frase que me inspira </h2>
 
 > “No hay atajos hacia ningún lugar que valga la pena.” — *Beverly Sills*
