@@ -121,7 +121,7 @@ Demo:  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo2aGRuZ284a
 ![Commits per week](https://img.shields.io/github/commit-activity/m/Itzskade/<repo>?style=flat)
 
 <!-- GitHub stars -->
-![Stars](https://img.shields.io/github/stars/Itzskade/<repo>?style=flat)
+![Stars](https://img.shields.io/github/stars/Itzskade/?style=flat)
 
 <!-- GitHub forks -->
 ![Forks](https://img.shields.io/github/forks/Itzskade/<repo>?style=flat)
