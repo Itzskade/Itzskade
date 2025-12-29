@@ -66,17 +66,6 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
   <!-- <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=Itzskade&layout=compact&theme=dracula" /> -->
 </p>
 
-
----
-
-<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U1dTlnMG1hbWF0dGNvanQxZ3ptM3p4Mng3eHA0OW9obXVnOXpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1lFYFYndRlBNjUoE0H/giphy.gif" width="45" /> Get in Touch </h2> 
-
-<p align="left">
-  <a href="https://itzskade.vercel.app">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB5ajJvZ2o4a2xhaXNobDN5dTI1a2Fzdmk2NDF6Y250N2Y0ZHAxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uHOijVgJLhzB2QEKUq/giphy.gif" width="150" width="280" />
-  </a>
-</p>
-
 ---
 
 <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXMyeGE0NjJlb2MzcGx6NHB5cjZwODVjYzlndmRyODJyaGNsY2kxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPCbGMd9phguQ8ULbD/giphy.gif" width="45" /> Quote That Inspires Me </h2>
