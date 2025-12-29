@@ -59,8 +59,8 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 ---
 
 <h2> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajgyZXczNzNxenh2MHF5cXpvenY0YTJjaDc4ZzdhY2R6a2szNXFtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUQHpQ3UjFBfRlQekP/giphy.gif"  width="45" /> GitHub Stats</h2>   
-<img src="https://camo.githubusercontent.com/b9b4d92b3eb9842380dc1e230c45b94278f02f0f73a40ece32750c0c249806a7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4974737661677561796f266c6162656c3d50726f66696c65253230766965777326636f6c6f723d303037414343267374796c653d666c6174" width="120" style="display:inline-block;" />
-  <img src="https://camo.githubusercontent.com/debedcde4c2b8801bf278caf662d551677dfd8abfaca244c6a32bcd8a090b7c1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f4974737661677561796f3f7374796c653d736f6369616c" width="100" style="display:inline-block;" />
+<img src="https://komarev.com/ghpvc/?username=Itzskade&abbreviated=true)" width="120" style="display:inline-block;" />
+<img src="https://camo.githubusercontent.com/debedcde4c2b8801bf278caf662d551677dfd8abfaca244c6a32bcd8a090b7c1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f4974737661677561796f3f7374796c653d736f6369616c" width="100" style="display:inline-block;" />
 
 <p align="left">
   <img src="https://github-stats-kappa-swart.vercel.app/api/stats?username=Itzskade&layout=compact&theme=dracula" />
