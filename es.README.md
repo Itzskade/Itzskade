@@ -6,9 +6,10 @@
 
 # Roger Marín Navarro
 
-<h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDAzMHRrZGQ4Z2Exd2x1NGp0dGt3aHdkOGk5cTl4dGN2cHRudmVweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="45" /> Sobre mí </h2>   
-Actual estudiante en 42 Barcelona.  
-Me apasiona la **ciberseguridad**, el **hacking ético** y la **programación de bajo nivel**.  
+<h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDAzMHRrZGQ4Z2Exd2x1NGp0dGt3aHdkOGk5cTl4dGN2cHRudmVweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="45" /> Sobre mí </h2>  
+
+Actual estudiante en 42 Barcelona.    
+Me apasiona la **ciberseguridad**, el **hacking ético** y la **programación de bajo nivel**.   
 Disfruto explorando distintos lenguajes y frameworks para profundizar mi comprensión y construir software moderno y eficiente.
 
 ---
