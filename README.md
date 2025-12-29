@@ -46,7 +46,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 --- 
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="35" /> Finish projects
+<h2><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="35" /> Finish projects </h2>
 
 | Milestone                                        | Project                                                    | Overview                                                       | Languages | Score                                                      |
 |--------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------|-----------|------------------------------------------------------------|
@@ -76,7 +76,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 ---
 
-<h2> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U1dTlnMG1hbWF0dGNvanQxZ3ptM3p4Mng3eHA0OW9obXVnOXpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1lFYFYndRlBNjUoE0H/giphy.gif" width="45" /> Mini Web Portfolio </h2> 
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U1dTlnMG1hbWF0dGNvanQxZ3ptM3p4Mng3eHA0OW9obXVnOXpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1lFYFYndRlBNjUoE0H/giphy.gif" width="45" /> Mini Web Portfolio </h2> 
 
 Repository: [web-portfolio](https://github.com/Itzskade/web-portfolio)      
 Demo:  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo2aGRuZ284aTB0Z2k5bTQzODM2M2VjYTdvOWNuempwa3g4ZjF3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYpelo7WbjZQg0dDQY/giphy.gif" width="60" /> 
