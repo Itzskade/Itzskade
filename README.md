@@ -92,3 +92,37 @@ Demo:  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo2aGRuZ284a
 > “There are no shortcuts to any place worth going.” — *Beverly Sills*
 
 ---
+
+
+
+
+<!-- Seguidores en GitHub -->
+![GitHub followers](https://img.shields.io/github/followers/Itzskade?label=Followers&style=flat)
+
+<!-- Repositorios públicos -->
+![GitHub repos](https://img.shields.io/github/repos/Itzskade?style=flat)
+
+<!-- Último commit de un repo (reemplaza <repo>) -->
+![Last commit](https://img.shields.io/github/last-commit/Itzskade/<repo>?style=flat)
+
+<!-- Issues abiertas de un repo -->
+![Open issues](https://img.shields.io/github/issues/Itzskade/<repo>?style=flat)
+
+<!-- Pull requests abiertas de un repo -->
+![Open PRs](https://img.shields.io/github/issues-pr/Itzskade/<repo>?style=flat)
+
+<!-- Licencia de un repo -->
+![License](https://img.shields.io/github/license/Itzskade/<repo>?style=flat)
+
+<!-- Lenguaje principal de un repo -->
+![Repo language](https://img.shields.io/github/languages/top/Itzskade/<repo>?style=flat)
+
+<!-- Actividad de GitHub (commits por semana) -->
+![Commits per week](https://img.shields.io/github/commit-activity/m/Itzskade/<repo>?style=flat)
+
+<!-- GitHub stars -->
+![Stars](https://img.shields.io/github/stars/Itzskade/<repo>?style=flat)
+
+<!-- GitHub forks -->
+![Forks](https://img.shields.io/github/forks/Itzskade/<repo>?style=flat)
+
