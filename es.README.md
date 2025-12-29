@@ -66,15 +66,6 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 
 ---
 
-<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB5ajJvZ2o4a2xhaXNobDN5dTI1a2Fzdmk2NDF6Y250N2Y0ZHAxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uHOijVgJLhzB2QEKUq/giphy.gif" width="45" /> Contacto </h2>
-<p align="left">
-  <a href="https://itzskade.vercel.app">
-    <img src="https://i.imgur.com/80RIoUj.png" alt="Contact Me" width="280" />
-  </a>
-</p>
-
----
-
 <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXMyeGE0NjJlb2MzcGx6NHB5cjZwODVjYzlndmRyODJyaGNsY2kxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPCbGMd9phguQ8ULbD/giphy.gif" width="45" /> Frase que me inspira </h2>
 
 > “No hay atajos hacia ningún lugar que valga la pena.” — *Beverly Sills*
