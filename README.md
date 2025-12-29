@@ -5,7 +5,7 @@
 </p>
 
 # Roger Marín Navarro
-![emoji animado](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN0Z3V3eWE1dHRoenN2Y3F6c3ZrZ2w3Y3lrbnRpdm8xbjNndGt1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN0Z3V3eWE1dHRoenN2Y3F6c3ZrZ2w3Y3lrbnRpdm8xbjNndGt1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="60" />
 ## 👨‍💻 **About me**  
 Currently student at 42 Barcelona.  
 I'm passionate about **cybersecurity**, **ethical hacking** and **low-level programming**.  
