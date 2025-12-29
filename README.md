@@ -43,7 +43,8 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
   </tr>
 </table>
 
-![Stats](https://github-stats-kappa-swart.vercel.app/api/stats?username=Itzskade)
+![Stats](https://github-stats-e0kdqzpll-itzskades-projects.vercel.app/api/stats?username=Itzskade&show_icons=true&theme=radical)
+
 
 
 --- 
