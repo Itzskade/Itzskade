@@ -60,7 +60,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 <img src="https://komarev.com/ghpvc/?username=Itzskade&abbreviated=false&color=ff69b4&style=plastic" width="130" />
 
 <p align="left">
-  <img src="https://github-stats-kappa-swart.vercel.app/api/stats?username=Itzskade&layout=compact&theme=dracula" />
+  <img src="https://github-stats-kappa-swart.vercel.app/api/?username=Itzskade&layout=compact&theme=dracula" />
   <!-- <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=Itzskade&layout=compact&theme=dracula" /> -->
 </p>
 
