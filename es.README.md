@@ -62,7 +62,6 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 <div align="left">
    <img src="https://github-stats-kappa-swart.vercel.app/api/?username=Itzskade&theme=tokyonight&show_icons=true" />
    <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=Itzskade&theme=tokyonight&show_icons=true" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzskade&theme=dracula" /> 
 </div>
 
 ---
