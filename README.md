@@ -57,7 +57,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 ---
 
 <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajgyZXczNzNxenh2MHF5cXpvenY0YTJjaDc4ZzdhY2R6a2szNXFtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUQHpQ3UjFBfRlQekP/giphy.gif"  width="45" /> GitHub Stats </h2>  
-<img src="https://komarev.com/ghpvc/?username=Itzskade&abbreviated=false&color=ff69b4&style=plastic&locale=es" width="130" />
+<img src="https://komarev.com/ghpvc/?username=Itzskade&abbreviated=false&color=ff69b4&style=plastic" width="130" />
 
 <p align="left">
   <img src="https://github-stats-kappa-swart.vercel.app/api/?username=Itzskade&layout=compact&theme=tokyonight&show_icons=true&compact=true" />
