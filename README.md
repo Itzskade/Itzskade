@@ -13,8 +13,6 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 
 ---
 
-[![Itzskade's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzskade)](https://github.com/itzskade/github-readme-stats)
-
  <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN0Z3V3eWE1dHRoenN2Y3F6c3ZrZ2w3Y3lrbnRpdm8xbjNndGt1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="45" /> Skills & Tools</h2>
 
 <table>
