@@ -9,7 +9,7 @@
 
 Currently student at 42 Barcelona.   
 I'm passionate about **cybersecurity**, **ethical hacking** and **low-level programming**.    
-I enjoy exploring a variety of languages and frameworks to deepen my understanding and build efficient, modern software.
+I enjoy exploring a variety of languages and frameworks to deepen my understanding and build efficient modern software.
 
 ---
 
