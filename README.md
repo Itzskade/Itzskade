@@ -53,6 +53,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 | ![M1](https://img.shields.io/badge/M1-%23DC143C) | [Printf](https://github.com/Itzskade/Printf)               | Recreate the printf() function with formatted output handling  | C         | ![Score](https://img.shields.io/badge/100/100-%23DC143C)   |
 | ![M1](https://img.shields.io/badge/M1-%23DC143C) | [Get_next_line](https://github.com/Itzskade/Get_next_line) | Function to read one line at a time from a file descriptor     | C         | ![Score](https://img.shields.io/badge/125/100-%23DC143C)   |
 | ![M2](https://img.shields.io/badge/M2-%2312bab9) | [Push Swap](https://github.com/Itzskade/Push_Swap)         | Sort integers using two stacks and limited operations          | C         | ![Score](https://img.shields.io/badge/84/100-%2312bab9)    |
+| ![M2](https://img.shields.io/badge/M2-%2312bab9) | [Python_Piscine](https://github.com/Itzskade/Python_Piscine)         | Sort integers using two stacks and limited operations          | Python         | ![Score](https://img.shields.io/badge/100/100-%2312bab9)    |
 
 ---
 
