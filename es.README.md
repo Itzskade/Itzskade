@@ -61,8 +61,8 @@ Disfruto explorando distintos lenguajes y frameworks para profundizar mi compren
 <img src="https://komarev.com/ghpvc/?username=Itzskade&abbreviated=false&color=ff69b4&style=plastic" width="130" />
 
 <p align="left">
-  <img src="https://github-stats-kappa-swart.vercel.app/api/?username=Itzskade&layout=compact&theme=tokyonight&show_icons=true&card_width=470&locale=es" />
-  <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=Itzskade&exclude_repo=github-stats,FlexFox&layout=compact&theme=tokyonight&langs_count=10&card_width=350&locale=es" />
+  <img src="https://github-stats-kappa-swart.vercel.app/api/?username=Itzskade&layout=compact&theme=tokyonight&show_icons=true&card_width=470&locale=es&cache_seconds=86400" />
+  <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=Itzskade&exclude_repo=github-stats,FlexFox&layout=compact&theme=tokyonight&langs_count=10&card_width=350&locale=es&cache_seconds=86400" />
 </p>
 
 ---
