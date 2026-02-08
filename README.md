@@ -54,7 +54,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
 | ![M1](https://img.shields.io/badge/M1-%23DC143C) | [Get_next_line](https://github.com/Itzskade/Get_next_line)   | Function to read one line at a time from a file descriptor     | C         | ![Score](https://img.shields.io/badge/125/100-%23DC143C)   |
 | ![M2](https://img.shields.io/badge/M2-%2312bab9) | [Push Swap](https://github.com/Itzskade/Push_Swap)           | Sort integers using two stacks and limited operations          | C         | ![Score](https://img.shields.io/badge/84/100-%2312bab9)    |
 | ![M2](https://img.shields.io/badge/M2-%2312bab9) | [Python_Piscine](https://github.com/Itzskade/Python_Piscine) | Learn Python end-to-end, from basics to OOP and decorators.    | Python    | ![Score](https://img.shields.io/badge/100/100-%2312bab9)   |
-| ![M2](https://img.shields.io/badge/M2-%2312bab9) | [A-Maze-Ing](https://github.com/Itzskade/A-Maze_ing)         | Maze generator and solver using classic algorithms with ASCII output | Python | ![Score](https://img.shields.io/badge/116/100-%2312bab9)   |
+| ![M2](https://img.shields.io/badge/M2-%2312bab9) | [A-Maze-ing](https://github.com/Itzskade/A-Maze-ing)         | Maze generator and solver using classic algorithms with ASCII output | Python | ![Score](https://img.shields.io/badge/116/100-%2312bab9)   |
 ---
 
 <h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajgyZXczNzNxenh2MHF5cXpvenY0YTJjaDc4ZzdhY2R6a2szNXFtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUQHpQ3UjFBfRlQekP/giphy.gif"  width="45" /> GitHub Stats </h2>  
