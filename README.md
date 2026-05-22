@@ -29,9 +29,7 @@ I enjoy exploring a variety of languages and frameworks to deepen my understandi
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/>
       <img src="https://cdn.simpleicons.org/linux/000000" width="60"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="60"/>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original.svg" width="57"/>
