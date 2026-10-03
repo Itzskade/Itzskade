@@ -2,7 +2,7 @@
 
 [![vim profile.yml — Roger Marín](./assets/profile-vim.svg)](https://github.com/Itzskade)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1200&color=F08AA4&center=true&vCenter=true&width=700&lines=Roger+Mar%C3%ADn+-+DevOps+Engineer;C+%C2%B7+Python+%C2%B7+Linux+%C2%B7+Git;pwntools+%C2%B7+GDB+%C2%B7+Ghidra+%C2%B7+Burp+Suite+%C2%B7+nmap;RAG+%C2%B7+ChromaDB+%C2%B7+BM25+%C2%B7+Qwen)](https://github.com/Itzskade)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1200&color=F08AA4&center=true&vCenter=true&width=700&lines=Roger+Mar%C3%ADn+-+DevOps+Engineer;Programming+%C2%B7+Video+Games+%C2%B7+Anime+%C2%B7+Music;Building+tools%2C+projects+%26+random+ideas;There+are+no+shortcuts+to+any+place+worth+going)](https://github.com/Itzskade)
 
 </div>
 
