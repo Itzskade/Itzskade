@@ -60,7 +60,7 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-kappa-swart.vercel.app/api/?username=Itzskade&layout=compact&bg_color=0c1a2a&title_color=f08aa4&text_color=c8d6e5&icon_color=67e8f9&border_color=22364d&border_radius=8&show_icons=true&card_width=350) ![Top languages](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs?username=Itzskade&exclude_repo=github-stats,FlexFox&layout=compact&bg_color=0c1a2a&title_color=f08aa4&text_color=c8d6e5&icon_color=67e8f9&border_color=22364d&border_radius=8&langs_count=10&card_width=350&update=final)
+![GitHub stats](https://github-readme-stats-kappa-swart.vercel.app/api/?username=Itzskade&layout=compact&bg_color=0c1a2a&title_color=f08aa4&text_color=c8d6e5&icon_color=67e8f9&border_color=22364d&border_radius=8&show_icons=true&card_width=400) ![Top languages](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs?username=Itzskade&exclude_repo=github-stats,FlexFox&layout=compact&bg_color=0c1a2a&title_color=f08aa4&text_color=c8d6e5&icon_color=67e8f9&border_color=22364d&border_radius=8&langs_count=10&card_width=350&update=final)
 
 </div>
 
