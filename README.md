@@ -68,5 +68,9 @@
 
 ## `$ connect --socials`
 
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-67e8f9?style=for-the-badge&logo=linkedin&logoColor=0a1522)](https://www.linkedin.com/in/itzskade/)
 [![GitHub](https://img.shields.io/badge/GitHub-f08aa4?style=for-the-badge&logo=github&logoColor=0a1522)](https://github.com/Itzskade)
+
+</div>
