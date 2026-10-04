@@ -24,7 +24,7 @@
 
 | `├─ ✦ languages:` <br> [![C and Python](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev) <br> `C · Python` | `├─ ▥ databases:` <br> [![MySQL, PostgreSQL](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) <br> `MySQL · PostgreSQL` |
 | :--- | :--- |
-| `├─ ▤ containers:` <br> [![Docker, Kubernetes](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev) <br> `Docker` | `╰─ ✎ workflow:` <br> [![Linux, Git, GitHub, Neovim](https://skillicons.dev/icons?i=linux,git,github,neovim)](https://skillicons.dev) <br> `Linux · Git · GitHub · Neovim` |
+| `├─ ▤ containers:` <br> [![Docker, Kubernetes](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) <br> `Docker` | `╰─ ✎ workflow:` <br> [![Linux, Git, GitHub, Neovim](https://skillicons.dev/icons?i=linux,git,github,neovim)](https://skillicons.dev) <br> `Linux · Git · GitHub · Neovim` |
 
 </div>
 
