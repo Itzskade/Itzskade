@@ -22,11 +22,9 @@
 
 <div align="center">
 
-| `TU_USUARIO:~$ cat tech-stack.yaml` | |
+| `├─ ✦ languages:` <br> [![C and Python](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev) <br> `C · Python` | `├─ ▥ databases:` <br> [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) <br> `PostgreSQL (learning)` |
 | :--- | :--- |
-| `├─ ✦ languages:`<br>[![C y Python](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev)<br>`C · Python` | `├─ ▥ databases:`<br>[![MySQL, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)<br>`MySQL · PostgreSQL · MongoDB` |
-| `├─ ▤ containers_ci_cd:`<br>[![Docker, Kubernetes, GitHub Actions, GitLab](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab)](https://skillicons.dev)<br>`Docker · Kubernetes · GitHub Actions · GitLab` | `╰─ ✎ workflow:`<br>[![Linux, Git, GitHub, Neovim, VS Code](https://skillicons.dev/icons?i=linux,git,github,neovim,vscode)](https://skillicons.dev)<br>`Linux · Git · GitHub · Neovim · VS Code` |
-| `status: ready  ·  environment: production` | |
+| `├─ ▤ containers:` <br> [![Docker, Kubernetes](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev) <br> `Docker · Kubernetes (learning)` | `╰─ ✎ workflow:` <br> [![Linux, Git, GitHub, Neovim](https://skillicons.dev/icons?i=linux,git,github,neovim)](https://skillicons.dev) <br> `Linux · Git · GitHub · Neovim` |
 
 </div>
 
