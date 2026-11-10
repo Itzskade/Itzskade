@@ -64,6 +64,13 @@ whoami:
     title: sunset.service
     status: "status: no shortcuts"
 
+# ── assets/stats.svg · assets/top-langs.svg ──────────────────
+# Numbers come from the GitHub API (python3 generate.py --fetch-stats),
+# cached in stats.json. The GitHub Action refreshes them every day.
+stats:
+  exclude_repos: [github-stats, FlexFox]   # left out of the language breakdown
+  langs_count: 7                           # the rest are grouped as "Other" (max 9 fit)
+
 # ── assets/radar.svg ─────────────────────────────────────────
 signals:
   title: code_signals.yaml

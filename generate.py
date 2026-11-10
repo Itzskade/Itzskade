@@ -6,17 +6,25 @@ generate.py — builds the GitHub profile SVGs from profile.yaml.
     python3 generate.py --theme dracula  # override the theme
     python3 generate.py --list-themes
 
+    python3 generate.py --fetch-stats    # also refresh stats.json from the GitHub API
+                                         # (set GITHUB_TOKEN to avoid rate limits)
+
 Output:  assets/profile-vim.svg · assets/whoami.svg · assets/radar.svg
-         assets/radar-langs.svg · README.md (from README.template.md)
+         assets/radar-langs.svg · assets/stats.svg · assets/top-langs.svg
+         README.md (from README.template.md)
 
 Requires: PyYAML  (Pillow only if you use .png/.jpg as pixel art)
 """
 from __future__ import annotations
 
 import argparse
+import datetime
+import json
 import math
+import os
 import pathlib
 import sys
+import urllib.request
 from html import escape
 
 import yaml
@@ -479,6 +487,124 @@ def build_radar(block: dict, t: dict, color_key: str, fill_id: str) -> str:
 
 
 # ═════════════════════════════════════════════════════════════
+#  4) GitHub stats (stats.svg / top-langs.svg)
+# ═════════════════════════════════════════════════════════════
+API = "https://api.github.com"
+
+
+def gh(path: str, token: str | None):
+    headers = {"Accept": "application/vnd.github+json", "User-Agent": "profile-generator"}
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    req = urllib.request.Request(API + path, headers=headers)
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return json.load(r)
+
+
+def fetch_stats(user: str, exclude: list[str], token: str | None) -> dict:
+    """Public data only: owned non-fork repos, stars, languages, commits, PRs, issues."""
+    me = gh(f"/users/{user}", token)
+    repos, page = [], 1
+    while True:
+        batch = gh(f"/users/{user}/repos?per_page=100&type=owner&page={page}", token)
+        repos += batch
+        if len(batch) < 100:
+            break
+        page += 1
+    own = [r for r in repos if not r["fork"]]
+    langs: dict[str, int] = {}
+    for r in own:
+        if r["name"] in exclude:
+            continue
+        for lang, size in gh(f"/repos/{user}/{r['name']}/languages", token).items():
+            langs[lang] = langs.get(lang, 0) + size
+
+    def total(q: str) -> int:
+        return gh(f"/search/{q}&per_page=1", token)["total_count"]
+
+    return {
+        "user": user,
+        "updated": datetime.date.today().isoformat(),
+        "stars": sum(r["stargazers_count"] for r in own),
+        "commits": total(f"commits?q=author:{user}"),
+        "pull_requests": total(f"issues?q=author:{user}+type:pr"),
+        "issues": total(f"issues?q=author:{user}+type:issue"),
+        "repos": len(own),
+        "followers": me.get("followers", 0),
+        "languages": dict(sorted(langs.items(), key=lambda kv: -kv[1])),
+    }
+
+
+def card_frame(t: dict, w: int, h: int, cmd: str) -> list[str]:
+    return [svg_open(w, h, cmd), defs(t, sizes=(13, 12, 11)),
+            f'<rect x="1" y="1" width="{w-2}" height="{h-2}" rx="10" fill="{t["panel"]}" '
+            f'stroke="{edge(t)}" stroke-width="1.5"/>',
+            f'<text x="20" y="30" class="k" xml:space="preserve" fill="{t["accent"]}"{gl(t)}>'
+            f'<tspan fill="{t["accent2"]}">❯</tspan> <tspan fill="{t["text"]}">{e(cmd)}</tspan></text>',
+            f'<line x1="20" y1="44" x2="{w-20}" y2="44" stroke="{t["border"]}" stroke-dasharray="4 4"/>']
+
+
+def build_stats_card(st: dict | None, t: dict, user: str) -> str:
+    W, H = 450, 220
+    o = card_frame(t, W, H, f"gh api users/{user}")
+    st = st or {}
+    rows = [("stars", "stars", t["accent3"]), ("commits", "commits", t["accent2"]),
+            ("pull requests", "pull_requests", t["accent"]), ("issues", "issues", t["accent4"]),
+            ("public repos", "repos", t["accent"]), ("followers", "followers", t["accent3"])]
+    for i, (label, key, col) in enumerate(rows):
+        y = 74 + i * 22
+        val = st.get(key)
+        val = f"{val:,}" if isinstance(val, int) else "—"
+        o.append(f'<rect x="22" y="{y-9}" width="8" height="8" rx="2" fill="{col}"/>'
+                 f'<text x="40" y="{y}" class="t" fill="{t["value"]}">{e(label)}</text>'
+                 f'<line x1="{48 + len(label)*7.3:.0f}" y1="{y-3}" x2="{W-80}" y2="{y-3}" '
+                 f'stroke="{t["faint"]}" stroke-dasharray="1 4"/>'
+                 f'<text x="{W-22}" y="{y}" text-anchor="end" class="k" fill="{t["text"]}">{val}</text>')
+    foot = f'updated {st["updated"]}' if st.get("updated") else "waiting for the first GitHub Action run"
+    o.append(f'<text x="20" y="{H-16}" class="s" fill="{t["muted"]}"># {e(foot)}</text>')
+    o.append(scanlines(t, W, H))
+    o.append("</svg>")
+    return "".join(o)
+
+
+def build_langs_card(st: dict | None, t: dict, count: int) -> str:
+    W, H = 450, 220
+    o = card_frame(t, W, H, "github-linguist --breakdown")
+    langs = list((st or {}).get("languages", {}).items())
+    total = sum(v for _, v in langs) or 1
+    top = langs[:count]
+    if len(langs) > count:
+        top.append(("Other", sum(v for _, v in langs[count:])))
+    palette = [t["accent"], t["accent2"], t["accent3"], t["accent4"], t["value"], t["muted"], t["grid"]]
+
+    def color(i: int, name: str) -> str:
+        return t["faint"] if name == "Other" else palette[i % len(palette)]
+    # stacked bar
+    x, bw = 20.0, W - 40
+    o.append(f'<clipPath id="bar"><rect x="20" y="58" width="{bw}" height="10" rx="5"/></clipPath>'
+             f'<rect x="20" y="58" width="{bw}" height="10" rx="5" fill="{t["border"]}"/><g clip-path="url(#bar)">')
+    for i, (name, v) in enumerate(top):
+        w = bw * v / total
+        o.append(f'<rect x="{f(x)}" y="58" width="{f(w)}" height="10" fill="{color(i, name)}"/>')
+        x += w
+    o.append("</g>")
+    # two-column list
+    for i, (name, v) in enumerate(top):
+        col, row = divmod(i, 5)
+        cx, y = 22 + col * 215, 96 + row * 22
+        o.append(f'<circle cx="{cx+4}" cy="{y-4}" r="4" fill="{color(i, name)}"/>'
+                 f'<text x="{cx+16}" y="{y}" class="t" fill="{t["value"]}">{e(name)}</text>'
+                 f'<text x="{cx+195}" y="{y}" text-anchor="end" class="k" fill="{t["text"]}">'
+                 f'{100*v/total:.1f}%</text>')
+    if not top:
+        o.append(f'<text x="22" y="100" class="t" fill="{t["muted"]}">no data yet</text>')
+    o.append(f'<text x="20" y="{H-16}" class="s" fill="{t["muted"]}"># by bytes of code · public repos · forks excluded</text>')
+    o.append(scanlines(t, W, H))
+    o.append("</svg>")
+    return "".join(o)
+
+
+# ═════════════════════════════════════════════════════════════
 #  README from template
 # ═════════════════════════════════════════════════════════════
 def build_readme(t: dict) -> str | None:
@@ -499,6 +625,7 @@ def main() -> None:
     ap.add_argument("--config", default="profile.yaml")
     ap.add_argument("--out", default="assets")
     ap.add_argument("--list-themes", action="store_true")
+    ap.add_argument("--fetch-stats", action="store_true", help="refresh stats.json from the GitHub API")
     a = ap.parse_args()
 
     themes = yaml.safe_load((ROOT / "themes.yaml").read_text(encoding="utf-8"))
@@ -511,6 +638,17 @@ def main() -> None:
         sys.exit(f"[x] theme '{name}' does not exist. Available: {', '.join(themes)}")
     t = themes[name]
 
+    sc = cfg.get("stats", {})
+    stats_file = ROOT / "stats.json"
+    if a.fetch_stats:
+        try:
+            data = fetch_stats(cfg["github"], sc.get("exclude_repos", []), os.environ.get("GITHUB_TOKEN"))
+            stats_file.write_text(json.dumps(data, indent=2) + "\n", encoding="utf-8")
+            print(f"[✓] stats.json  (GitHub API, {len(data['languages'])} languages)")
+        except Exception as ex:  # keep the previous stats.json if the API fails
+            print(f"[!] could not fetch stats: {ex}", file=sys.stderr)
+    stats = json.loads(stats_file.read_text(encoding="utf-8")) if stats_file.exists() else None
+
     out = ROOT / a.out
     out.mkdir(exist_ok=True)
     files = {
@@ -518,6 +656,8 @@ def main() -> None:
         "whoami.svg": build_whoami(cfg, t),
         "radar.svg": build_radar(cfg["signals"], t, "accent", "rf"),
         "radar-langs.svg": build_radar(cfg["languages"], t, "accent2", "rf"),
+        "stats.svg": build_stats_card(stats, t, cfg["github"]),
+        "top-langs.svg": build_langs_card(stats, t, int(sc.get("langs_count", 7))),
     }
     for fn, svg in files.items():
         (out / fn).write_text(svg, encoding="utf-8")

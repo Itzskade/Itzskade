@@ -65,7 +65,7 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-kappa-swart.vercel.app/api/?username=Itzskade&layout=compact&bg_color={{panel}}&title_color={{accent}}&text_color={{value}}&icon_color={{accent2}}&border_color={{border}}&border_radius=8&show_icons=true&card_width=400) ![Top languages](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs?username=Itzskade&exclude_repo=github-stats,FlexFox&layout=compact&bg_color={{panel}}&title_color={{accent}}&text_color={{value}}&icon_color={{accent2}}&border_color={{border}}&border_radius=8&langs_count=10&card_width=350&update=final)
+<img src="./assets/stats.svg" alt="GitHub stats" width="49%"> <img src="./assets/top-langs.svg" alt="Top languages" width="49%">
 
 </div>
 
