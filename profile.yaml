@@ -1,0 +1,87 @@
+# ─────────────────────────────────────────────────────────────
+#  profile.yaml — all the data behind the profile SVGs
+#  Edit this file and run:   python3 generate.py
+#  (or just push: the GitHub Action rebuilds them for you)
+# ─────────────────────────────────────────────────────────────
+
+theme: adwaita            # ubuntu · adwaita · solarized · synthwave · tokyonight · dracula · gruvbox · citypop
+
+github: Itzskade
+
+# ── assets/profile-vim.svg ───────────────────────────────────
+vim:
+  filename: profile.yml
+  mode: NORMAL
+  art_title: VISUAL.MAP
+  frame_seconds: 3.2       # seconds each drawing stays on screen
+  # 1-bit drawings. Accepts .pbm (plain text: 1 = pixel on) or .png/.jpg
+  # (images are resized and Floyd–Steinberg dithered automatically).
+  art:
+    - art/padlock.pbm
+    - art/terminal.pbm
+    - art/bug.pbm
+    - art/git.pbm
+    - art/braces.pbm
+  # What shows up "open" in the editor. Top-level keys = sections.
+  # Lists are joined with " · ".
+  file:
+    profile:
+      subject: Roger Marín
+      origin: Barcelona, Spain
+    software:
+      role: Software Engineer
+      workflow: [Linux, zsh, Git, GitHub, Neovim]
+      languages: [C, Python]
+      databases: [MySQL, PostgreSQL]
+      infra: [Docker, docker-compose]
+    ai:
+      rag: [Hybrid Search, BM25, ChromaDB, RRF]
+      llm: [Qwen, Constrained Decoding, Logit Masking]
+    contact:
+      github: Itzskade
+      linkedin: /in/itzskade
+      login42: rmarin-n
+      timezone: Europe/Madrid
+
+# ── assets/whoami.svg ────────────────────────────────────────
+whoami:
+  window_title: itzskade@42bcn:~ · profile shell · online
+  name: Roger Marín
+  tagline: Software · Security · AI
+  info:
+    location: Barcelona, Spain
+    focus: Offensive security · Systems · Applied AI
+    objective: Secure, reliable software, understood end to end
+  highlight: objective      # info key rendered in green
+  section: beyond-devops/
+  items:
+    Systems Programming: C · memory management · POSIX syscalls
+    Software Engineering: Python · typed code · testing · linting
+    Offensive Security: pwn.college · Hack The Box · pwntools
+    Security Tooling: GDB · Ghidra · Burp Suite · nmap
+    Applied AI: RAG · BM25 · ChromaDB · LLM · Qwen
+  side:
+    title: sunset.service
+    status: "status: no shortcuts"
+
+# ── assets/radar.svg ─────────────────────────────────────────
+signals:
+  title: code_signals.yaml
+  subtitle: measured in my repos · log scale
+  items:
+    - { name: Typing,         value: 382, unit: typed defs }
+    - { name: Error handling, value: 173, unit: try/except }
+    - { name: OOP,            value: 111, unit: classes+ABC }
+    - { name: Algorithms,     value: 65,  unit: bfs/dfs/prim/radix }
+    - { name: Memory (C),     value: 57,  unit: malloc/free }
+    - { name: Syscalls (C),   value: 30,  unit: read/write/open }
+
+# ── assets/radar-langs.svg ───────────────────────────────────
+languages:
+  title: language_stack.yaml
+  subtitle: lines of code/text across my repos · log scale
+  items:
+    - { name: Python,   value: 8152, unit: loc }
+    - { name: C,        value: 2889, unit: loc }
+    - { name: Markdown, value: 2869, label: "2,869 lines · 36 docs" }   # label = free text
+    - { name: Makefile, value: 123,  unit: lines }

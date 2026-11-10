@@ -1,0 +1,170 @@
+# Color palettes. Set `theme:` in profile.yaml to pick one,
+# or copy one and make your own. All values are hex.
+#
+#   bg      window background           panel   panel background
+#   border  borders                     grid    grids / thin lines
+#   text    main text                   value   values
+#   muted   secondary text              faint   line numbers
+#   accent  primary color               accent2 secondary
+#   accent3 tertiary                    accent4 fourth (gradients)
+#   ok      "objective" green
+#   glow    neon glow (true/false)      scanlines  CRT lines (true/false)
+#   flat    solid colors, no gradients (true/false)
+#   chrome  window bar: gnome (buttons on the right) | mac (traffic lights)
+#   headerbar / close   title bar and close button colors (gnome only)
+
+# ── Real terminals ──────────────────────────────────────────
+
+# GNOME Terminal on Ubuntu (aubergine + Tango palette + Ubuntu orange)
+ubuntu:
+  bg: "#2c0a22"
+  headerbar: "#3d1a32"
+  panel: "#300a24"
+  border: "#5a2d4e"
+  grid: "#8c6a82"
+  text: "#eeeeec"
+  value: "#d3d7cf"
+  muted: "#ab94a6"
+  faint: "#7a5a70"
+  accent: "#e95420"
+  accent2: "#8ae234"
+  accent3: "#fce94f"
+  accent4: "#729fcf"
+  ok: "#8ae234"
+  close: "#e95420"
+  flat: true
+  chrome: gnome
+  glow: false
+  scanlines: false
+
+# GNOME / Adwaita dark (Fedora, Debian GNOME…)
+adwaita:
+  bg: "#1e1e1e"
+  headerbar: "#303030"
+  panel: "#242424"
+  border: "#3d3d3d"
+  grid: "#77767b"
+  text: "#ffffff"
+  value: "#deddda"
+  muted: "#9a9996"
+  faint: "#5e5c64"
+  accent: "#62a0ea"
+  accent2: "#57e389"
+  accent3: "#f6d32d"
+  accent4: "#dc8add"
+  ok: "#57e389"
+  close: "#4a4a4a"
+  flat: true
+  chrome: gnome
+  glow: false
+  scanlines: false
+
+# Solarized Dark (Ethan Schoonover) — a vim/tmux classic
+solarized:
+  bg: "#00212b"
+  headerbar: "#073642"
+  panel: "#002b36"
+  border: "#0f4553"
+  grid: "#586e75"
+  text: "#eee8d5"
+  value: "#93a1a1"
+  muted: "#839496"
+  faint: "#586e75"
+  accent: "#268bd2"
+  accent2: "#859900"
+  accent3: "#b58900"
+  accent4: "#d33682"
+  ok: "#859900"
+  close: "#dc322f"
+  flat: true
+  chrome: gnome
+  glow: false
+  scanlines: false
+
+# ── Stylized ────────────────────────────────────────────────
+
+synthwave:
+  bg: "#0d0221"
+  panel: "#160a36"
+  border: "#3a1d6e"
+  grid: "#6b4bb8"
+  text: "#fbeaff"
+  value: "#d9ccff"
+  muted: "#9a86c9"
+  faint: "#5e4a94"
+  accent: "#ff2e97"
+  accent2: "#00f0ff"
+  accent3: "#ffd319"
+  accent4: "#b967ff"
+  ok: "#3dffa8"
+  glow: true
+  scanlines: true
+
+tokyonight:
+  bg: "#16161e"
+  panel: "#1a1b26"
+  border: "#2f3549"
+  grid: "#565f89"
+  text: "#c0caf5"
+  value: "#a9b1d6"
+  muted: "#737aa2"
+  faint: "#3b4261"
+  accent: "#bb9af7"
+  accent2: "#7dcfff"
+  accent3: "#e0af68"
+  accent4: "#f7768e"
+  ok: "#9ece6a"
+  glow: true
+  scanlines: false
+
+dracula:
+  bg: "#1e1f29"
+  panel: "#282a36"
+  border: "#44475a"
+  grid: "#6272a4"
+  text: "#f8f8f2"
+  value: "#e2e2dc"
+  muted: "#8b93c4"
+  faint: "#4d5170"
+  accent: "#ff79c6"
+  accent2: "#8be9fd"
+  accent3: "#f1fa8c"
+  accent4: "#bd93f9"
+  ok: "#50fa7b"
+  glow: true
+  scanlines: false
+
+gruvbox:
+  bg: "#1d2021"
+  panel: "#282828"
+  border: "#3c3836"
+  grid: "#665c54"
+  text: "#fbf1c7"
+  value: "#ebdbb2"
+  muted: "#a89984"
+  faint: "#504945"
+  accent: "#fe8019"
+  accent2: "#83a598"
+  accent3: "#fabd2f"
+  accent4: "#d3869b"
+  ok: "#b8bb26"
+  glow: false
+  scanlines: true
+
+# The original theme, in case you want to go back
+citypop:
+  bg: "#0a1522"
+  panel: "#0c1a2a"
+  border: "#22364d"
+  grid: "#5b7391"
+  text: "#e8eef6"
+  value: "#cfe3f2"
+  muted: "#6b819b"
+  faint: "#4a617c"
+  accent: "#f08aa4"
+  accent2: "#67e8f9"
+  accent3: "#ffc861"
+  accent4: "#f4a7c0"
+  ok: "#6fe3a1"
+  glow: false
+  scanlines: false
