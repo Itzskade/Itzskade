@@ -1,8 +1,3 @@
-<!--
-  ⚠ README.md is generated from this file (python3 generate.py).
-  Edit HERE. Tokens like 62a0ea and 242424 are replaced with the active
-  theme's colors (without '#'), so the external cards match the SVGs.
--->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1200&color=62a0ea&center=true&vCenter=true&width=700&lines=Roger+Mar%C3%ADn+-+Software+Engineer;Building+tools%2C+projects+%26+random+ideas;There+are+no+shortcuts+to+any+place+worth+going)](https://github.com/Itzskade)
