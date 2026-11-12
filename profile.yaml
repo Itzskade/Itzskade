@@ -44,7 +44,7 @@ vim:
 
 # ── assets/whoami.svg ────────────────────────────────────────
 whoami:
-  window_title: itzskade@42bcn:~ · profile shell · online
+  window_title: itzskade@dev:~ · profile shell · online
   name: Roger Marín
   tagline: Software · Security · AI
   info:
