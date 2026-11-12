@@ -75,7 +75,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-57e389?style=for-the-badge&logo=linkedin&logoColor=1e1e1e)](https://www.linkedin.com/in/0xrogermarin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-57e389?style=for-the-badge&logo=linkedin&logoColor=1e1e1e)](https://www.linkedin.com/in/itzskade/)
 [![GitHub](https://img.shields.io/badge/GitHub-62a0ea?style=for-the-badge&logo=github&logoColor=1e1e1e)](https://github.com/Itzskade)
 
 </div>
